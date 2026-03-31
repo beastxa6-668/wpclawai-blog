@@ -1,13 +1,73 @@
 baseURL = "https://wpclawai.com/"
-languageCode = "zh-cn"
-defaultContentLanguage = "zh"
 title = "BeastXA Lab"
 theme = "PaperMod"
 paginate = 10
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.zh]
+    languageName = "中文"
+    weight = 1
+    languageCode = "zh-CN"
+    [languages.zh.params]
+      description = "AI 工具实测 · 跨境电商实战 · 冷门机会挖掘"
+      [languages.zh.params.homeInfoParams]
+        Title = "BeastXA Lab"
+        Content = "AI 工具实测 · 跨境电商实战 · 冷门机会挖掘"
+    [[languages.zh.menu.main]]
+      identifier = "ai-tools"
+      name = "AI 工具"
+      url = "/categories/ai-tools/"
+      weight = 10
+    [[languages.zh.menu.main]]
+      identifier = "ecommerce"
+      name = "跨境电商"
+      url = "/categories/ecommerce/"
+      weight = 20
+    [[languages.zh.menu.main]]
+      identifier = "opportunities"
+      name = "冷门机会"
+      url = "/categories/opportunities/"
+      weight = 30
+    [[languages.zh.menu.main]]
+      identifier = "search"
+      name = "搜索"
+      url = "/search/"
+      weight = 40
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    languageCode = "en"
+    [languages.en.params]
+      description = "AI Tool Reviews · Cross-border E-commerce · Hidden Opportunities"
+      [languages.en.params.homeInfoParams]
+        Title = "BeastXA Lab"
+        Content = "AI Tool Reviews · Cross-border E-commerce · Hidden Opportunities"
+    [[languages.en.menu.main]]
+      identifier = "ai-tools"
+      name = "AI Tools"
+      url = "/en/categories/ai-tools/"
+      weight = 10
+    [[languages.en.menu.main]]
+      identifier = "ecommerce"
+      name = "E-commerce"
+      url = "/en/categories/ecommerce/"
+      weight = 20
+    [[languages.en.menu.main]]
+      identifier = "opportunities"
+      name = "Opportunities"
+      url = "/en/categories/opportunities/"
+      weight = 30
+    [[languages.en.menu.main]]
+      identifier = "search"
+      name = "Search"
+      url = "/en/search/"
+      weight = 40
 
 [params]
   env = "production"
-  description = "AI 工具实测 · 跨境电商实战 · 冷门机会挖掘"
   author = "BeastXA"
   defaultTheme = "auto"
   ShowReadingTime = true
@@ -18,10 +78,6 @@ paginate = 10
   ShowToc = true
   TocOpen = false
   comments = false
-
-  [params.homeInfoParams]
-    Title = "BeastXA Lab"
-    Content = "AI 工具实测 · 跨境电商实战 · 冷门机会挖掘"
 
   [[params.socialIcons]]
     name = "github"
@@ -49,27 +105,3 @@ paginate = 10
 [markup]
   [markup.highlight]
     noClasses = false
-
-[[menu.main]]
-  identifier = "ai-tools"
-  name = "AI 工具"
-  url = "/categories/ai-tools/"
-  weight = 10
-
-[[menu.main]]
-  identifier = "ecommerce"
-  name = "跨境电商"
-  url = "/categories/ecommerce/"
-  weight = 20
-
-[[menu.main]]
-  identifier = "opportunities"
-  name = "冷门机会"
-  url = "/categories/opportunities/"
-  weight = 30
-
-[[menu.main]]
-  identifier = "search"
-  name = "搜索"
-  url = "/search/"
-  weight = 40
