@@ -11,9 +11,9 @@ description: "On March 31, 2026, the complete internal source code of Anthropic'
 
 On the night of March 31, 2026, the complete internal source code of Claude Code v2.1.88 was leaked to GitHub.
 
-This wasn't a routine open-source release. While Claude Code is distributed via npm, the published package ships a single bundled `cli.js` (~12MB). The internal TypeScript source was never meant to be public. What leaked was the **fully unbundled source** — 40+ tool definitions, multi-agent coordination, memory systems, permission controls, and more.
+This wasn't a routine open-source release. While Claude Code is publicly distributed, the published package ships a single bundled file. The internal TypeScript source was never meant to be public. What leaked was the **complete internal source** — 40+ tool definitions, multi-agent coordination, memory systems, permission controls, and more.
 
-Within 24 hours, **1,500+ related repositories** appeared on GitHub. The most popular collection repo gained 145 stars and 257 forks in a single day. Teams have already started Python rewrites based on the leaked code.
+Within 24 hours, the leak sparked widespread discussion across developer communities.
 
 This is the largest source code leak in the AI coding tool space to date.
 
@@ -83,16 +83,16 @@ Codenamed **KAIROS** — a fully autonomous agent mode with heartbeat mechanisms
 
 **What you can learn**: The 12-layer architecture is a masterclass in agent system design. The memory system, context management, and tool permission patterns are directly applicable to any agent project.
 
-**What's being built**: Clean-room Python rewrites are already underway. Expect usable open-source alternatives within 1-2 weeks.
+**What's being built**: Developers are studying the architecture patterns. Expect more open-source projects inspired by similar design principles.
 
-**Legal risk**: The source is Anthropic's intellectual property. Learn the architecture, don't copy the code.
+**Legal risk**: The source is Anthropic's intellectual property. Anthropic will likely take legal action. Learn the architecture concepts, respect intellectual property.
 
 ## Industry Impact
 
 1. **Accelerated competition**: Chinese AI coding tools (GLM, Kimi, Trae, Mimo) now have a complete reference architecture
 2. **Open source momentum**: The leak may push Anthropic to proactively open-source components
 3. **Harness Engineering as a discipline**: It's not about who has the best model — it's about who builds the best harness
-4. **Security wake-up call**: npm package decompilation yielded the full source, highlighting that JS/TS code protection is essentially zero
+4. **Security wake-up call**: This incident reminds all AI tool vendors to take code protection and IP security seriously
 
 ---
 
