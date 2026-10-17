@@ -7,7 +7,7 @@ categories: ["Stories"]
 tags: ["Relationships", "Couple Gifts", "Vulnerability", "Communication"]
 description: "A candid reflection on the quiet anxiety of introducing something new into a long-term relationship — and how a single honest conversation transformed our bedroom."
 summary: "It sat inside my bedside drawer for three weeks, wrapped in brown kraft paper. I was terrified of sending the wrong message. Here is how we finally opened it together."
-images: ["/images/og-gift-story.svg"]
+images: ["/images/og-gift-story.png"]
 ---
 
 It sat inside the bottom drawer of my nightstand for nearly three weeks, buried beneath an old wool sweater and a couple of half-read paperbacks. 
