@@ -7,6 +7,7 @@ categories: ["Guides"]
 tags: ["Beginners", "Wellness", "Self-Care", "Body-Safe"]
 description: "A calm, gentle breakdown of materials, stimulation styles, and ergonomic shapes to help you find your ideal first intimacy companion with complete confidence."
 summary: "Choosing your first wellness toy shouldn't feel intimidating. Here is a calm, judgment-free guide on what to look for, what to avoid, and how to find what suits your body best."
+images: ["/images/og-first-vibrator.svg"]
 ---
 
 Walking down the digital aisles of personal wellness can easily feel overwhelming. With hundreds of colors, motor configurations, and futuristic designs, what was supposed to be a fun journey into self-care can quickly start to feel like buying an intricate piece of computer hardware.

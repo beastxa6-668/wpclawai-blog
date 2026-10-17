@@ -7,6 +7,7 @@ categories: ["Gift Guides"]
 tags: ["Gifts", "Romantic Surprises", "Couples", "Anniversary"]
 description: "How to choose an intimate gift that feels romantic, respectful, and genuinely exciting rather than uncomfortable or high-pressure."
 summary: "Giving an intimate gift shouldn't feel like walking an emotional tightrope. Here is our curated guide to choosing presents that convey care, desire, and mutual playfulness."
+images: ["/images/og-thoughtful-gifts.svg"]
 ---
 
 Every year around anniversaries, birthdays, and romantic holidays, millions of people find themselves browsing gift sections with good intentions and cold feet.
