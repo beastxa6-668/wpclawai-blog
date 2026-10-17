@@ -53,11 +53,11 @@ When shopping for intimacy gifts, prioritize soft, body-safe materials like sili
 
 ### Curated Picks for Thoughtful Romantics
 
-Browse [SinDept's Best Sellers collection](https://sindept.com/product-category/best-sellers/) to compare the documented features of different gift options, then discuss preferences before choosing.
+Not sure what they'd enjoy? Browse [SinDept's Best Sellers collection](https://sindept.com/product-category/best-sellers/) together and let the conversation lead—not the surprise.
 
 Here are two beautifully balanced, beginner-friendly romance gifts from SinDept that bridge the gap between relaxation and playful exploration. Both arrive in completely unmarked, discreet packaging:
 
-{{< sindept_recommendations title="Curated Non-Awkward Romance Gifts" subtitle="Sculptural aesthetics, velvety textures, and body-safe craft for couples and personal unwinding." >}}
+{{< sindept_recommendations title="Curated Non-Awkward Romance Gifts" subtitle="Two different designs to look at together, with no pressure to choose." >}}
 
 {{< sindept_card 
   title="Cordless Wand Body Massager – 10 Modes & 4 Speeds"

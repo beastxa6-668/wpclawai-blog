@@ -64,11 +64,11 @@ When you are relaxed in bed, the last thing you want is fumbling through complic
 
 ### Curated Starter Picks
 
-Compare individual product descriptions in [SinDept's Women's Pleasure collection](https://sindept.com/product-category/womens-pleasure/) for the stated materials, dimensions and controls.
+If you're still figuring out what appeals to you, take a look through [SinDept's Women's Pleasure collection](https://sindept.com/product-category/womens-pleasure/). You don't have to choose today.
 
-Here are two thoughtfully crafted, beginner-friendly options from SinDept, each made with soft body-safe silicone and shipped in 100% plain packaging:
+Here are two options from SinDept with silicone contact surfaces described on their product pages. Orders ship in plain outer packaging with no product details shown on the label:
 
-{{< sindept_recommendations title="Thoughtful First-Time Recommendations" subtitle="Soft silicone contact surfaces, quiet motors, and intuitive controls designed for complete peace of mind." >}}
+{{< sindept_recommendations title="Thoughtful First-Time Recommendations" subtitle="Compare the listed features and choose at your own pace." >}}
 
 {{< sindept_card 
   title="Compact Dual-Stimulation Massager"
@@ -76,7 +76,7 @@ Here are two thoughtfully crafted, beginner-friendly options from SinDept, each 
   url="https://sindept.com/products/2-1-clitoral-suction-vibration-massager/"
   image="https://sindept.com/wp-content/uploads/2026/10/sd-549dd565d3ceb2144d0fe9629daf3788.jpg"
   badge="Staff Favorite"
-  note="Dual-function air suction and gentle vibration encased in soft silicone. Quiet, ergonomic, and travel-friendly."
+  note="Air-pulse suction and vibration, with 10 patterns of each. Soft silicone contact surface and USB charging."
 >}}
 
 {{< sindept_card 

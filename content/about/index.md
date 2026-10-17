@@ -27,6 +27,6 @@ We maintain a high editorial standard: our tone is warm, life-affirming, and res
 
 **The Velvet Notes is published by the team behind [SinDept](https://sindept.com/?utm_source=velvetnotes&utm_medium=blog_about).** 
 
-To help readers discover trusted, body-safe items and romantic gift sets, we occasionally feature curated selections from our store. Every featured item complies with body-safe material standards and is delivered in 100% plain, discreet packaging with no product details disclosed on the outer box.
+We occasionally feature products from our store to help readers compare options. Materials and features are listed on each product page; a material name alone is not a safety certification. Orders ship in plain outer packaging with no product details shown on the label.
 
 Thank you for spending time with us. May these notes bring comfort, insight, and joy to your intimate life.

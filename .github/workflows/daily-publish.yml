@@ -1,0 +1,38 @@
+name: Publish scheduled articles
+
+on:
+  schedule:
+    # Cover both Eastern daylight and standard time; the local-hour guard
+    # below allows exactly one scheduled deployment each day.
+    - cron: '0 10,11 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: velvet-notes-daily-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check Eastern publication hour
+        id: time
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          if [ "$EVENT_NAME" = workflow_dispatch ] || [ "$(TZ=America/New_York date +%H)" = 06 ]; then
+            echo 'publish=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'publish=false' >> "$GITHUB_OUTPUT"
+          fi
+      - name: Rebuild Vercel production site
+        if: steps.time.outputs.publish == 'true'
+        env:
+          DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          test -n "$DEPLOY_HOOK" || { echo 'Missing VERCEL_DEPLOY_HOOK secret'; exit 1; }
+          curl --fail-with-body --silent --show-error --retry 2 --connect-timeout 20 --max-time 60 --request POST "$DEPLOY_HOOK"
