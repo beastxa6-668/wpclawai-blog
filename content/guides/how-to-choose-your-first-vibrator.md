@@ -64,6 +64,8 @@ When you are relaxed in bed, the last thing you want is fumbling through complic
 
 ### Curated Starter Picks
 
+Compare individual product descriptions in [SinDept's Women's Pleasure collection](https://sindept.com/product-category/womens-pleasure/) for the stated materials, dimensions and controls.
+
 Here are two thoughtfully crafted, beginner-friendly options from SinDept, each made with soft body-safe silicone and shipped in 100% plain packaging:
 
 {{< sindept_recommendations title="Thoughtful First-Time Recommendations" subtitle="Soft silicone contact surfaces, quiet motors, and intuitive controls designed for complete peace of mind." >}}
