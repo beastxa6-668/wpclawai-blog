@@ -1,107 +1,82 @@
 baseURL = "https://wpclawai.com/"
-title = "BeastXA Lab"
+title = "The Velvet Notes"
 theme = "PaperMod"
 paginate = 10
-defaultContentLanguage = "zh"
-defaultContentLanguageInSubdir = false
-
-[languages]
-  [languages.zh]
-    languageName = "中文"
-    weight = 1
-    languageCode = "zh-CN"
-    [languages.zh.params]
-      description = "AI 工具实测 · 跨境电商实战 · 冷门机会挖掘"
-      [languages.zh.params.homeInfoParams]
-        Title = "BeastXA Lab"
-        Content = "AI 工具实测 · 跨境电商实战 · 冷门机会挖掘"
-    [[languages.zh.menu.main]]
-      identifier = "ai-tools"
-      name = "AI 工具"
-      url = "/categories/ai-tools/"
-      weight = 10
-    [[languages.zh.menu.main]]
-      identifier = "ecommerce"
-      name = "跨境电商"
-      url = "/categories/ecommerce/"
-      weight = 20
-    [[languages.zh.menu.main]]
-      identifier = "opportunities"
-      name = "冷门机会"
-      url = "/categories/opportunities/"
-      weight = 30
-    [[languages.zh.menu.main]]
-      identifier = "search"
-      name = "搜索"
-      url = "/search/"
-      weight = 40
-
-  [languages.en]
-    languageName = "English"
-    weight = 2
-    languageCode = "en"
-    [languages.en.params]
-      description = "AI Tool Reviews · Cross-border E-commerce · Hidden Opportunities"
-      [languages.en.params.homeInfoParams]
-        Title = "BeastXA Lab"
-        Content = "AI Tool Reviews · Cross-border E-commerce · Hidden Opportunities"
-    [[languages.en.menu.main]]
-      identifier = "ai-tools"
-      name = "AI Tools"
-      url = "/en/categories/ai-tools/"
-      weight = 10
-    [[languages.en.menu.main]]
-      identifier = "ecommerce"
-      name = "E-commerce"
-      url = "/en/categories/ecommerce/"
-      weight = 20
-    [[languages.en.menu.main]]
-      identifier = "opportunities"
-      name = "Opportunities"
-      url = "/en/categories/opportunities/"
-      weight = 30
-    [[languages.en.menu.main]]
-      identifier = "search"
-      name = "Search"
-      url = "/en/search/"
-      weight = 40
+defaultContentLanguage = "en"
+languageCode = "en-us"
 
 [params]
   env = "production"
-  author = "BeastXA"
-  defaultTheme = "auto"
+  title = "The Velvet Notes"
+  description = "Thoughtful essays, personal stories, and honest guides on intimacy, modern relationships, and self-discovery."
+  author = "The Velvet Notes Editorial"
+  defaultTheme = "light"
   ShowReadingTime = true
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
+  ShowCodeCopyButtons = false
   ShowToc = true
   TocOpen = false
   comments = false
 
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/beastxa6-668"
+  [params.homeInfoParams]
+    Title = "The Velvet Notes"
+    Content = "A quiet corner for honest conversations about intimacy, thoughtful gifts, self-care, and modern connections. Written with warmth, discretion, and care."
 
-  [[params.socialIcons]]
-    name = "x"
-    url = "https://x.com/beastxa6"
+  [params.assets]
+    favicon = "/favicon.ico"
 
-[params.assets]
-  favicon = "/favicon.ico"
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "summary", "content"]
 
-[params.fuseOpts]
-  isCaseSensitive = false
-  shouldSort = true
-  location = 0
-  distance = 1000
-  threshold = 0.4
-  minMatchCharLength = 0
-  keys = ["title", "permalink", "summary", "content"]
+[menu]
+  [[menu.main]]
+    identifier = "stories"
+    name = "Stories"
+    url = "/stories/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "guides"
+    name = "Guides"
+    url = "/guides/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "gift-guides"
+    name = "Gift Guides"
+    url = "/gift-guides/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "relationships"
+    name = "Relationships"
+    url = "/relationships/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 50
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
 
 [markup]
-  [markup.highlight]
-    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -6,5 +6,112 @@
   },
   "installCommand": "curl -sL https://github.com/gohugoio/hugo/releases/download/v0.159.1/hugo_extended_0.159.1_Linux-64bit.tar.gz | tar xz -C /usr/local/bin",
   "buildCommand": "hugo --minify",
-  "outputDirectory": "public"
+  "outputDirectory": "public",
+  "redirects": [
+    {
+      "source": "/posts/multi-agent-ai-system-small-business/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/ai-product-listing-optimization-tools-cross-border-ecommerce/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/tiktok-shop-2026-review/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/ai-customer-service-tools-cross-border-ecommerce-sellers/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/claude-code-source-leaked/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/multi-agent-ai-orchestration-ecommerce-automation-2026/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/ai-agent-workflow-automation-solopreneurs-2026/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/posts/nvidia-free-models-test/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/en/posts/multi-agent-ai-system-small-business/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/en/posts/ai-product-listing-optimization-tools-cross-border-ecommerce/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/en/posts/tiktok-shop-2026-review/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/en/posts/ai-customer-service-tools-cross-border-ecommerce-sellers/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/en/posts/claude-code-source-leaked/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/en/posts/multi-agent-ai-orchestration-ecommerce-automation-2026/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/en/posts/ai-agent-workflow-automation-solopreneurs-2026/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/en/posts/nvidia-free-models-test/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/categories/ai-tools/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/categories/ecommerce/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/categories/opportunities/?",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/en/categories/:path*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/en/?",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
 }

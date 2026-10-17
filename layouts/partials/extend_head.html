@@ -1,0 +1,196 @@
+<style>
+/* The Velvet Notes - SinDept Recommendations Component */
+.sindept-recommendations-section {
+  margin: 3.5rem 0 2rem;
+  padding: 2.25rem 2rem;
+  background: #fbf8f5;
+  border: 1px solid #efe5db;
+  border-radius: 14px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+}
+
+.sd-recommendations-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.sd-section-eyebrow {
+  display: inline-block;
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #8b5e52;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+.sd-section-title {
+  font-size: 1.5rem;
+  color: #2b2320;
+  margin: 0.2rem 0 0.5rem;
+  font-weight: 700;
+  border-bottom: none;
+}
+
+.sd-section-subtitle {
+  font-size: 0.95rem;
+  color: #6e645e;
+  margin: 0 auto;
+  max-width: 580px;
+  line-height: 1.5;
+}
+
+.sd-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 1.75rem;
+}
+
+.sindept-recommendation-card {
+  position: relative;
+  background: #ffffff;
+  border: 1px solid #ebdcd0;
+  border-radius: 10px;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.sindept-recommendation-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(139, 94, 82, 0.12);
+}
+
+.sd-card-badge {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background: #8b5e52;
+  color: #ffffff;
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 4px;
+  letter-spacing: 0.05em;
+  z-index: 2;
+}
+
+.sd-card-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.sd-card-image-wrap {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  background: #fdfaf8;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sd-card-image-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.sindept-recommendation-card:hover .sd-card-image-wrap img {
+  transform: scale(1.03);
+}
+
+.sd-card-details {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.sd-card-title {
+  font-size: 1.05rem;
+  color: #241c19;
+  margin: 0 0 0.5rem;
+  line-height: 1.35;
+  font-weight: 600;
+}
+
+.sd-card-note {
+  font-size: 0.85rem;
+  color: #6a605a;
+  line-height: 1.5;
+  margin-bottom: 1.25rem;
+  flex-grow: 1;
+}
+
+.sd-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed #efe4da;
+}
+
+.sd-card-price {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #8b5e52;
+}
+
+.sd-card-btn {
+  display: inline-block;
+  background: #2b2320;
+  color: #ffffff !important;
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 8px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+
+.sd-card-btn:hover {
+  background: #8b5e52;
+  text-decoration: none;
+}
+
+.sd-discreet-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-size: 0.82rem;
+  color: #7b7169;
+  background: rgba(235, 220, 208, 0.4);
+  padding: 10px 16px;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.sd-discreet-banner svg {
+  flex-shrink: 0;
+  color: #8b5e52;
+}
+
+.story-disclaimer {
+  font-style: italic;
+  font-size: 0.85rem;
+  color: #8c827a;
+  border-left: 3px solid #d4c2b2;
+  padding-left: 12px;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.adult-notice {
+  font-size: 0.8rem;
+  color: #999;
+  margin-top: 0.5rem;
+}
+</style>
