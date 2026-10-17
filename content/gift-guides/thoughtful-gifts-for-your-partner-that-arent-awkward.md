@@ -47,7 +47,7 @@ How you present the gift completely sets the emotional tone:
 
 Nothing spoils a romantic moment faster than rough seams, harsh chemical odors, or unreliable designs. 
 
-When shopping for intimacy gifts, prioritize soft, body-safe materials like silicone and ABS plastic, rechargeable convenience, and simple maintenance. It signals profound respect for your partner's comfort and bodily well-being, showing that their ease is your top priority.
+When shopping for intimacy gifts, look for a clearly stated contact material, controls your partner wants to use, and cleaning instructions for that exact item. Silicone and ABS are material names, not independent safety certifications. Check the details together rather than treating a reassuring label as a guarantee.
 
 ---
 
