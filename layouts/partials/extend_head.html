@@ -215,4 +215,42 @@
   .sd-card-hero .sd-card-image-wrap { flex-basis: auto; }
   .sd-card-footer { flex-wrap: wrap; }
 }
+/* Editorial redesign */
+body.list:has(.vn-home) .main { max-width:1208px; }
+.nav { max-width:1240px; padding:1rem 1.5rem; min-height:100px; align-items:center; justify-content:space-between; gap:1rem; }
+.vn-brand { font-family:Georgia,serif; font-size:1.65rem; font-weight:700; line-height:1.1; white-space:nowrap; }.vn-brand span { display:block; font-family:var(--font-family); font-size:.55rem; letter-spacing:.17em; margin-top:.4rem; color:#8b5e52; }
+#menu { gap:1.1rem; line-height:1.2; align-items:center; }#menu li+li { margin-inline-start:0; }#menu a { font-size:.83rem; font-weight:600; }#menu .vn-nav-button { padding:.8rem 1rem; }
+fieldset { border:0; padding:0; min-width:0; }legend { font-size:1.5rem; font-weight:700; margin-bottom:1rem; }.quiz-controls { display:flex; align-items:center; gap:1rem; }.quiz-back { margin-top:1.25rem; padding:.8rem; cursor:pointer; }#quiz-category { display:block; padding:.7rem; margin:.5rem 0 1rem; border:1px solid #c8a99d; border-radius:8px; width:100%; background:#fff; font:inherit; }.quiz-options input { margin-right:.6rem; }.quiz-match-note { font-size:.88rem; }
+@media(max-width:1000px){.nav{justify-content:center;}.vn-brand{text-align:center;}#menu{justify-content:center;flex-wrap:wrap;white-space:normal;row-gap:1rem;}}
+@media(max-width:600px){.nav{padding:1rem .75rem;}#menu{gap:.75rem 1rem;overflow:visible!important;}#menu a{font-size:.76rem;}.vn-brand{font-size:1.5rem;}}
+.vn-home, .toy-finder-page { max-width: 1160px; margin: 0 auto; }
+.vn-promise { padding: 4.5rem 1rem 4rem; text-align: center; background: linear-gradient(135deg,#fbf8f5,#f5ece5); border-radius: 24px; margin: 1rem 0 4rem; }
+.vn-promise h1 { font-size: clamp(2.5rem,6vw,5rem); line-height: .98; letter-spacing: -.04em; margin: .5rem 0 1rem; color:#2b2320; }
+.vn-promise p { max-width: 630px; margin: 0 auto 1.5rem; font-size:1.15rem; color:#6e645e; }
+.vn-eyebrow { display:inline-block; font-size:.72rem; letter-spacing:.14em; text-transform:uppercase; color:#8b5e52; font-weight:700; }
+.vn-actions { display:flex; gap:1rem; justify-content:center; align-items:center; flex-wrap:wrap; }
+.vn-actions a:not(.vn-button) { color:#2b2320; font-weight:600; }
+.vn-button, .vn-nav-button { display:inline-block; background:#2b2320; color:#fff!important; border-radius:999px; padding:.8rem 1.2rem; text-decoration:none!important; font-weight:700; }
+.vn-section-heading { display:flex; justify-content:space-between; align-items:end; gap:1rem; margin:3rem 0 1.25rem; border-bottom:1px solid #eadfd6; padding-bottom:.7rem; }
+.vn-section-heading h2 { margin:0; font-size:1.8rem; }
+.vn-section-heading p { margin:0; color:#7b7169; }
+.vn-article-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:1.25rem; }
+.vn-article-card { border:1px solid #eadfd6; border-radius:14px; overflow:hidden; background:#fff; transition:transform .2s,box-shadow .2s; }
+.vn-article-card:hover { transform:translateY(-3px); box-shadow:0 8px 24px rgba(80,50,35,.10); }
+.vn-article-card a { display:block; color:inherit; text-decoration:none; height:100%; }
+.vn-article-card img { display:block; width:100%; aspect-ratio:1200/630; object-fit:cover; }
+.vn-card-copy { padding:1rem 1.1rem 1.2rem; }
+.vn-card-copy h3 { margin:.35rem 0 .45rem; font-size:1.15rem; line-height:1.25; }
+.vn-card-copy p { margin:0; color:#6e645e; font-size:.9rem; line-height:1.5; }
+.vn-types { display:grid; grid-template-columns:repeat(5,minmax(0,1fr)); gap:.75rem; }
+.vn-types a { display:flex; flex-direction:column; color:inherit; text-decoration:none; border:1px solid #eadfd6; border-radius:12px; overflow:hidden; background:#fbf8f5; }
+.vn-types img { width:100%; aspect-ratio:1.5; object-fit:cover; }
+.vn-types strong,.vn-types span { padding:0 .75rem; }.vn-types strong { padding-top:.75rem; }.vn-types span { padding-bottom:.85rem; font-size:.82rem; color:#7b7169; }
+.custom-footer-links { margin-top:3rem; padding:2rem 1rem; text-align:center; font-size:.88rem; color:var(--secondary); border-top:1px solid #eadfd6; }.custom-footer-links a { margin:0 .5rem; }
+.fiction-label { display:inline-block; font-size:.68rem; line-height:1; letter-spacing:.14em; font-weight:800; color:#8b5e52; border:1px solid #c8a99d; border-radius:999px; padding:.35rem .55rem; margin-bottom:.6rem; }
+.post-header .fiction-label { margin-top:.5rem; }.post-header .fiction-label + h1 { margin-top:.35rem; }
+.toy-finder-page { padding:2rem 1rem 5rem; }.toy-finder-intro { text-align:center; max-width:680px; margin:0 auto 2rem; }.toy-finder-intro h1 { font-size:3rem; margin:.4rem 0; }.toy-finder-intro p { color:#6e645e; }
+#toy-finder-app { max-width:760px; margin:auto; }.quiz-progress { color:#8b5e52; font-weight:700; font-size:.85rem; margin-bottom:1rem; }.quiz-options { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.8rem; }.quiz-options label { border:1px solid #eadfd6; border-radius:12px; padding:1rem; cursor:pointer; }.quiz-options label:has(input:checked) { border-color:#8b5e52; background:#fbf3ee; }.quiz-options input { accent-color:#8b5e52; }.quiz-next,.quiz-reset { margin-top:1.25rem; border:0; cursor:pointer; }.quiz-next:disabled { opacity:.4; cursor:not-allowed; }.quiz-results h2 { margin-bottom:.4rem; }.quiz-results > p { color:#6e645e; }.quiz-cards { display:grid; gap:1.2rem; }.quiz-result-card { width:100%; box-sizing:border-box; }.quiz-alt h3 { margin-bottom:.6rem; font-size:1rem; color:#8b5e52; }
+@media (max-width: 800px) { .vn-article-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }.vn-types { grid-template-columns:repeat(3,minmax(0,1fr)); }.nav { gap:1rem; }.nav #menu { overflow-x:auto; justify-content:flex-start; } }
+@media (max-width: 600px) { .vn-promise { padding:3rem 1rem; margin-left:-.5rem; margin-right:-.5rem; border-radius:0; }.vn-section-heading { display:block; }.vn-section-heading p { margin-top:.35rem; }.vn-article-grid { grid-template-columns:1fr; }.vn-types { grid-template-columns:repeat(2,minmax(0,1fr)); }.quiz-options { grid-template-columns:1fr; }.toy-finder-intro h1 { font-size:2.5rem; } }
 </style>

@@ -4,10 +4,15 @@ date: 2026-10-19T06:00:00-04:00
 slug: "body-safe-materials-101"
 author: "The Velvet Notes Editorial"
 categories: ["Guides"]
-tags: ["Materials", "Beginners", "Care"]
+tags: ["Materials", "Beginners", "Care", "Suction toys", "Vibrators", "For him", "Bondage basics"]
 description: "What silicone and TPE labels tell you, what they don't, and which material, cleaning and lubricant questions to ask before buying an intimate toy."
 summary: "A practical guide to silicone, TPE, cleaning instructions and compatible lubricants."
 images: ["/images/og-materials-101.png"]
+cover:
+  image: "/images/og-materials-101.png"
+  alt: "Lifestyle photograph accompanying Body-Safe Materials 101: Silicone, TPE and What to Avoid"
+  hiddenInList: false
+  hiddenInSingle: false
 ---
 
 Maya had three tabs open and a bowl of cereal going soft beside her laptop. One product said silicone. Another said TPE. A third said “premium,” which wasn't helping her compare anything. She was thirty-four, newly single, and perfectly capable of choosing her own cereal. Apparently choosing something for herself required a vocabulary test.

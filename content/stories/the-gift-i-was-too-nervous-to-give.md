@@ -4,13 +4,16 @@ date: 2026-10-17T08:15:00Z
 slug: "the-gift-i-was-too-nervous-to-give"
 author: "The Velvet Notes Editorial"
 categories: ["Stories"]
-tags: ["Relationships", "Couple Gifts", "Vulnerability", "Communication"]
+tags: ["Relationships", "Couple Gifts", "Vulnerability", "Communication", "Couples"]
 description: "A candid reflection on the quiet anxiety of introducing something new into a long-term relationship — and how a single honest conversation transformed our bedroom."
 summary: "It sat inside my bedside drawer for three weeks, wrapped in brown kraft paper. I was terrified of sending the wrong message. Here is how we finally opened it together."
 images: ["/images/og-gift-story.png"]
+cover:
+  image: "/images/og-gift-story.png"
+  alt: "Lifestyle photograph accompanying The Gift I Was Too Nervous to Give"
+  hiddenInList: false
+  hiddenInSingle: false
 ---
-
-*An illustrative story from The Velvet Notes editors.*
 
 It sat inside the bottom drawer of my nightstand for nearly three weeks, buried beneath an old wool sweater and a couple of half-read paperbacks. 
 
@@ -81,3 +84,5 @@ If there is a box sitting in your bedside drawer—or in your online shopping ca
 {{< /sindept_recommendations >}}
 
 For a practical starting point, read our [first-vibrator guide](/guides/how-to-choose-your-first-vibrator/).
+
+<p class="story-disclaimer">Characters and events are fictional.</p>

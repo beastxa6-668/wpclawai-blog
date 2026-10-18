@@ -1,12 +1,8 @@
 ---
 title: "Relationships"
-description: "Thoughtful reflections and practical advice on modern intimacy, vulnerable communication, and staying deeply connected."
+description: "Practical ways to communicate, stay connected and explore together without pressure."
 ---
 
-Welcome to **Relationships** — our dedicated space for thoughtful reflections on modern partnerships, emotional vulnerability, and navigating intimacy with empathy and care.
+A good conversation is a useful place to start. Explore ideas for thoughtful gifts, shared curiosity and making room for an honest answer.
 
-### Stories coming soon
-
-We are currently curating honest conversations, reader reflections, and expert perspectives on communication, long-distance connection, and keeping the spark alive in long-term relationships. 
-
-Check back soon, or explore our latest [Guides](/guides/) and personal [Stories](/stories/) in the meantime.
+Start with our [gift guide](/gift-guides/thoughtful-gifts-for-your-partner-that-arent-awkward/) or [find a toy to compare together](/toy-finder/).

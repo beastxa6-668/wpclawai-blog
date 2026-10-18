@@ -4,10 +4,15 @@ date: 2026-10-17T08:30:00Z
 slug: "thoughtful-gifts-for-your-partner-that-arent-awkward"
 author: "The Velvet Notes Editorial"
 categories: ["Gift Guides"]
-tags: ["Gifts", "Romantic Surprises", "Couples", "Anniversary"]
+tags: ["Gifts", "Romantic Surprises", "Couples", "Anniversary", "Vibrators"]
 description: "How to choose an intimate gift that feels romantic, respectful, and genuinely exciting rather than uncomfortable or high-pressure."
 summary: "Giving an intimate gift shouldn't feel like walking an emotional tightrope. Here is our curated guide to choosing presents that convey care, desire, and mutual playfulness."
 images: ["/images/og-thoughtful-gifts.png"]
+cover:
+  image: "/images/og-thoughtful-gifts.png"
+  alt: "Lifestyle photograph accompanying Thoughtful Gifts for Your Partner (That Aren't Awkward)"
+  hiddenInList: false
+  hiddenInSingle: false
 ---
 
 Every year around anniversaries, birthdays, and romantic holidays, millions of people find themselves browsing gift sections with good intentions and cold feet.

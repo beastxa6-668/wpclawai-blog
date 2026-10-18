@@ -4,10 +4,15 @@ date: 2026-10-23T06:00:00-04:00
 slug: "how-to-bring-up-trying-something-new"
 author: "The Velvet Notes Editorial"
 categories: ["Relationships"]
-tags: ["Priya & Dev", "Communication", "Consent"]
+tags: ["Priya & Dev", "Communication", "Consent", "Couples"]
 description: "A low-pressure way to talk about trying something new together, with opening lines, room for a no, and a plan that doesn't turn curiosity into an obligation."
 summary: "Start with a conversation, not an unopened surprise and an expectation. Here's what to say—and how to leave room for a different answer."
 images: ["/images/og-trying-something-new.png"]
+cover:
+  image: "/images/og-trying-something-new.png"
+  alt: "Lifestyle photograph accompanying How to Bring Up Trying Something New"
+  hiddenInList: false
+  hiddenInSingle: false
 ---
 
 At 9:18 p.m., Priya was rinsing a spoon while Dev watched the baby monitor on the kitchen counter. Their one-year-old had finally fallen asleep. They'd been married eight years. Lately their longest uninterrupted conversations were about grocery substitutions.

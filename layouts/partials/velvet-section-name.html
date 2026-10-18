@@ -1,0 +1,2 @@
+{{- $names := dict "guides" "Toy Guides" "pleasure" "Sex & Pleasure" "relationships" "Relationships" "gift-guides" "Gift Ideas" "ask" "Ask Velvet" "stories" "Relationships & Self-discovery" -}}
+{{- index $names .Section | default .Section -}}

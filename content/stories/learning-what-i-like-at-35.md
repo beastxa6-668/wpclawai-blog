@@ -4,13 +4,16 @@ date: 2026-10-21T06:00:00-04:00
 slug: "learning-what-i-like-at-35"
 author: "The Velvet Notes Editorial"
 categories: ["Stories"]
-tags: ["Maya", "Starting Over", "Self-Discovery"]
-description: "Maya can handle a night shift. Answering one ordinary question about what she actually wants takes a little longer. An illustrative story."
+tags: ["Maya", "Starting Over", "Self-Discovery", "Suction toys"]
+description: "Maya can handle a night shift. Answering one ordinary question about what she actually wants takes a little longer."
 summary: "A nurse, a very ordinary cardboard box, and the surprisingly hard work of answering an easy question honestly."
 images: ["/images/og-learning-what-i-like.png"]
+cover:
+  image: "/images/og-learning-what-i-like.png"
+  alt: "Lifestyle photograph accompanying Learning What I Like at 35"
+  hiddenInList: false
+  hiddenInSingle: false
 ---
-
-*An illustrative story from The Velvet Notes editors.*
 
 At 7:40 on a Wednesday morning, I was sitting on the edge of my bed in Clintonville, holding coffee I'd microwaved twice. My navy scrubs smelled like hand sanitizer. There was a sock on the floor that wasn't going to pick itself up. I was thinking about something a patient had said six hours earlier.
 
@@ -133,3 +136,5 @@ But when somebody asks what I like, I try not to answer before I've checked.
 Our [first-time guide](/guides/how-to-choose-your-first-vibrator/) explains how to compare styles at your own pace.
 
 [Read the late-night version on SinDept (18+)](https://sindept.com/stories/printer-ink/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=learning-what-i-like-at-35&utm_content=more).
+
+<p class="story-disclaimer">Characters and events are fictional.</p>

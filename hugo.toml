@@ -8,7 +8,9 @@ languageCode = "en-us"
 [params]
   env = "production"
   title = "The Velvet Notes"
-  description = "Thoughtful essays, personal stories, and honest guides on intimacy, modern relationships, and self-discovery."
+  description = "Honest, judgment-free guides to sex toys, pleasure and relationships, written for real people."
+  mainSections = ["guides", "pleasure", "relationships", "gift-guides", "ask", "stories"]
+  disableThemeToggle = true
   author = "The Velvet Notes Editorial"
   defaultTheme = "light"
   ShowReadingTime = true
@@ -22,7 +24,7 @@ languageCode = "en-us"
 
   [params.homeInfoParams]
     Title = "The Velvet Notes"
-    Content = "A quiet corner for honest conversations about intimacy, thoughtful gifts, self-care, and modern connections. Written with warmth, discretion, and care."
+    Content = "Honest, judgment-free guides to sex toys, pleasure and relationships, written for real people."
 
   [params.assets]
     favicon = "/favicon.ico"
@@ -38,34 +40,35 @@ languageCode = "en-us"
 
 [menu]
   [[menu.main]]
-    identifier = "stories"
-    name = "Stories"
-    url = "/stories/"
-    weight = 10
-
-  [[menu.main]]
     identifier = "guides"
-    name = "Guides"
+    name = "Toy Guides"
     url = "/guides/"
-    weight = 20
-
+    weight = 10
   [[menu.main]]
-    identifier = "gift-guides"
-    name = "Gift Guides"
-    url = "/gift-guides/"
-    weight = 30
-
+    identifier = "pleasure"
+    name = "Sex & Pleasure"
+    url = "/pleasure/"
+    weight = 20
   [[menu.main]]
     identifier = "relationships"
     name = "Relationships"
     url = "/relationships/"
-    weight = 40
-
+    weight = 30
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "gift-guides"
+    name = "Gift Ideas"
+    url = "/gift-guides/"
+    weight = 40
+  [[menu.main]]
+    identifier = "ask"
+    name = "Ask Velvet"
+    url = "/ask/"
     weight = 50
+  [[menu.main]]
+    identifier = "toy-finder"
+    name = "Find Your Toy"
+    url = "/toy-finder/"
+    weight = 60
 
 [taxonomies]
   category = "categories"
