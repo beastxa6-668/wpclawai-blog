@@ -2,11 +2,15 @@
   "products": [
     {
       "id": "cat-shaped-clitoral-suction-toy-7-modes",
-      "title": "Cat-Shaped Clitoral Suction Toy \u2013 7 Modes",
+      "title": "Cat-Shaped Clitoral Suction Toy – 7 Modes",
       "price": 29.99,
       "url": "https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/",
       "image": "https://sindept.com/wp-content/uploads/2026/10/307fbe381489726c74e958c6934d5e29.webp",
       "kind": "focused",
+      "audience": [
+        "vulva"
+      ],
+      "audienceLabel": "For someone with a vulva",
       "sensations": [
         "point"
       ],
@@ -24,11 +28,17 @@
     },
     {
       "id": "cordless-wand-body-massager-10-modes-4-speeds",
-      "title": "Cordless Wand Body Massager \u2013 10 Modes & 4 Speeds",
+      "title": "Cordless Wand Body Massager – 10 Modes & 4 Speeds",
       "price": 29.99,
       "url": "https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/",
       "image": "https://sindept.com/wp-content/uploads/2026/10/9ffea80d614ceb436730f7da21defe86.webp",
       "kind": "broad",
+      "audience": [
+        "vulva",
+        "penis",
+        "couple"
+      ],
+      "audienceLabel": "External body massage for any body, solo or with a partner",
       "sensations": [
         "broad"
       ],
@@ -58,15 +68,23 @@
         16
       ],
       "note": "This silicone design combines a ridged internal shaft with external suction. Flexible clamping arms support adjustable positioning when you want internal and external contact in one toy.",
-      "source": "products.json#hands-free-thrusting-suction-vibrator"
+      "source": "products.json#hands-free-thrusting-suction-vibrator",
+      "audience": [
+        "vulva"
+      ],
+      "audienceLabel": "For someone with a vulva"
     },
     {
       "id": "peristaltic-g-spot-wand-10-modes",
-      "title": "Peristaltic G-Spot Wand \u2013 10 Modes",
+      "title": "Peristaltic G-Spot Wand – 10 Modes",
       "price": 29.99,
       "url": "https://sindept.com/products/peristaltic-g-spot-wand-10-modes/",
       "image": "https://sindept.com/wp-content/uploads/2026/10/4f8a730facd408986ecf3376ef738314.webp",
       "kind": "internal",
+      "audience": [
+        "vulva"
+      ],
+      "audienceLabel": "For someone with a vulva",
       "sensations": [
         "inside"
       ],
@@ -87,6 +105,10 @@
       "url": "https://sindept.com/products/closed-end-textured-male-masturbator/",
       "image": "https://sindept.com/wp-content/uploads/2026/10/12309f5a461e863b10363d799d044671.webp",
       "kind": "sleeve",
+      "audience": [
+        "penis"
+      ],
+      "audienceLabel": "For someone with a penis",
       "sensations": [
         "point",
         "broad"
@@ -105,11 +127,16 @@
     },
     {
       "id": "3-1-vibrating-cock-ring-remote-10-modes",
-      "title": "3-in-1 Vibrating Cock Ring with Remote \u2013 10 Modes",
+      "title": "3-in-1 Vibrating Cock Ring with Remote – 10 Modes",
       "price": 24.99,
       "url": "https://sindept.com/products/3-1-vibrating-cock-ring-remote-10-modes/",
       "image": "https://sindept.com/wp-content/uploads/2026/10/7ca27d69732e19c7ce035bbbd6359912.jpg",
       "kind": "ring",
+      "audience": [
+        "penis",
+        "couple"
+      ],
+      "audienceLabel": "For someone with a penis or for a couple to share",
       "sensations": [
         "point",
         "both"
@@ -146,7 +173,11 @@
         16
       ],
       "note": "The wearable profile combines a curved rotating shaft with flexible external arms. A wireless remote selects ten vibration patterns and three rotation modes for solo or partnered use.",
-      "source": "products.json#remote-control-rotating-g-spot-clitoral-vibrator"
+      "source": "products.json#remote-control-rotating-g-spot-clitoral-vibrator",
+      "audience": [
+        "vulva"
+      ],
+      "audienceLabel": "For someone with a vulva"
     },
     {
       "id": "3pcs-vibrating-anal-plug-training-set-remote-control",
@@ -155,6 +186,12 @@
       "url": "https://sindept.com/products/3pcs-vibrating-anal-plug-training-set-remote-control/",
       "image": "https://sindept.com/wp-content/uploads/2026/10/73df0583875cb66a176d8a80e14c915d.png",
       "kind": "anal",
+      "audience": [
+        "vulva",
+        "penis",
+        "couple"
+      ],
+      "audienceLabel": "For someone with a vulva, someone with a penis, or a couple to share",
       "sensations": [
         "inside"
       ],
@@ -173,11 +210,15 @@
     },
     {
       "id": "pink-bdsm-bondage-set-8-piece-restraint-kit",
-      "title": "Pink BDSM Bondage Set \u2013 8-Piece Restraint Kit",
+      "title": "Pink BDSM Bondage Set – 8-Piece Restraint Kit",
       "price": 11.99,
       "url": "https://sindept.com/products/pink-bdsm-bondage-set-8-piece-restraint-kit/",
       "image": "https://sindept.com/wp-content/uploads/2026/10/sd-60b813218c0338e801c005af0f397765.jpg",
       "kind": "bondage",
+      "audience": [
+        "couple"
+      ],
+      "audienceLabel": "For a couple to share",
       "sensations": [
         "broad",
         "both"
