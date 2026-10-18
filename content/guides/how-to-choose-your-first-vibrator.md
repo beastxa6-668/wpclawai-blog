@@ -64,30 +64,14 @@ When you are relaxed in bed, the last thing you want is fumbling through complic
 
 ### Curated Starter Picks
 
-If you're still figuring out what appeals to you, take a look through [SinDept's Women's Pleasure collection](https://sindept.com/product-category/womens-pleasure/). You don't have to choose today.
+The [Compact Dual-Stimulation Massager](https://sindept.com/products/2-1-clitoral-suction-vibration-massager/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=how-to-choose-your-first-vibrator&utm_content=inline) combines air-pulse suction and vibration, with 10 patterns of each and a soft silicone contact surface. Compare those controls with the styles above and choose at your own pace.
 
 Here are two options from SinDept with silicone contact surfaces described on their product pages. Orders ship in plain outer packaging with no product details shown on the label:
 
-{{< sindept_recommendations title="Thoughtful First-Time Recommendations" subtitle="Compare the listed features and choose at your own pace." >}}
-
-{{< sindept_card 
-  title="Compact Dual-Stimulation Massager"
-  price="$55.99"
-  url="https://sindept.com/products/2-1-clitoral-suction-vibration-massager/"
-  image="https://sindept.com/wp-content/uploads/2026/10/sd-549dd565d3ceb2144d0fe9629daf3788.jpg"
-  badge="Staff Favorite"
-  note="Air-pulse suction and vibration, with 10 patterns of each. Soft silicone contact surface and USB charging."
->}}
-
-{{< sindept_card 
-  title="Rose-Inspired Dual Contour Massager"
-  price="$44.99"
-  url="https://sindept.com/products/rose-dual-flapping-g-spot-clitoral-vibrator/"
-  image="https://sindept.com/wp-content/uploads/2026/10/sd-60b813218c0338e801c005af0f397765.jpg"
-  badge="Gentle & Soft"
-  note="Combining gentle warmth, soft rhythmic silicone petals, and 10 vibration patterns for relaxing evening unwinding."
->}}
-
-{{< /sindept_recommendations >}}
-
 Take your time, listen to what feels comfortable, and remember that personal pleasure is an ongoing practice of self-care and curiosity.
+
+{{< sindept_card title="Compact Dual-Stimulation Massager" price="$55.99" url="https://sindept.com/products/2-1-clitoral-suction-vibration-massager/" image="https://sindept.com/wp-content/uploads/2026/10/b99b62d823320a5cdf88e55d2cd4bdeb.webp" note="Air-pulse suction and vibration, with 10 patterns of each. Soft silicone contact surface and USB charging." content="hero" button="Explore this pick →" >}}
+
+{{< sindept_recommendations title="You might also like" >}}
+{{< sindept_card title="Rose-Inspired Dual Contour Massager" price="$44.99" url="https://sindept.com/products/rose-dual-flapping-g-spot-clitoral-vibrator/" image="https://sindept.com/wp-content/uploads/2026/10/417987b5acae4fb8758a9731adddbcf0.webp" note="Combining gentle warmth, soft rhythmic silicone petals, and 10 vibration patterns for relaxing evening unwinding." content="more" >}}
+{{< /sindept_recommendations >}}

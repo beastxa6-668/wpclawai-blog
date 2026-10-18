@@ -14,7 +14,7 @@ images: ["/images/og-gift-story.png"]
 
 It sat inside the bottom drawer of my nightstand for nearly three weeks, buried beneath an old wool sweater and a couple of half-read paperbacks. 
 
-Inside was a silicone couples ring with a lip-shaped stimulator and app control. I'd read the page twice, then put my phone down before I could talk myself out of ordering.
+Inside was [a silicone couples ring with a lip-shaped stimulator and app control](https://sindept.com/products/couples-vibrating-cock-ring-lip-stimulator-10-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=the-gift-i-was-too-nervous-to-give&utm_content=inline). I'd read the page twice, then put my phone down before I could talk myself out of ordering.
 
 I had ordered it during a quiet Thursday lunch break after seeing an article about bringing subtle new sensations into long-term partnerships. My partner, David, and I had been living together for four years. Our relationship was grounded, loving, and deeply supportive. But like so many couples juggling demanding careers and daily domestic routines, our intimacy had slipped into a gentle, predictable rhythm. We were close, but the thrill of spontaneous discovery had slowly taken a back seat.
 
@@ -74,32 +74,10 @@ Looking back, the real gift wasn't the silicone or the micro-motor. The real gif
 
 If there is a box sitting in your bedside drawer—or in your online shopping cart—don't let fear keep it there. You might be surprised to find that your partner has been waiting for the exact same invitation.
 
-<p class="story-disclaimer"><strong>Note:</strong> Illustrative story created by The Velvet Notes editorial team to explore relational vulnerability and modern intimacy.</p>
+{{< sindept_card title="Couples’ Vibrating Ring with Contoured Stimulator" price="$29.99" url="https://sindept.com/products/couples-vibrating-cock-ring-lip-stimulator-10-modes/" image="https://sindept.com/wp-content/uploads/2026/10/16b97ca708165f1dd883515fb14512e1.webp" note="Flexible silicone band with 10 vibration modes and app control, designed for shared presence and dual sensation." content="hero" button="Get the one from the story →" >}}
 
----
-
-### Featured Couple Accessories
-
-Curious about exploring couples play together? Here are two thoughtfully designed, body-safe items from SinDept crafted specifically for shared comfort and gentle connection:
-
-{{< sindept_recommendations title="Thoughtful Couple & Shared Pleasure Picks" subtitle="Designed for mutual comfort, enhanced presence, and spontaneous bedroom discovery." >}}
-
-{{< sindept_card 
-  title="Couples’ Vibrating Ring with Contoured Stimulator"
-  price="$29.99"
-  url="https://sindept.com/products/couples-vibrating-cock-ring-lip-stimulator-10-modes/"
-  image="https://sindept.com/wp-content/uploads/2026/10/sd-ae3c8abfb01f9a6958009f62e4c313b7.jpg"
-  badge="Couples Favorite"
-  note="Flexible silicone band with 10 vibration modes and app control, designed for shared presence and dual sensation."
->}}
-
-{{< sindept_card 
-  title="Dual-Loop Vibrating Ring – 9 Modes"
-  price="$14.99"
-  url="https://sindept.com/products/vibrating-dual-cock-ring-9-modes-longer-stronger-more/"
-  image="https://sindept.com/wp-content/uploads/2026/10/sd-1b8a280aa85dc096d92b51f0b51bcc2f.jpg"
-  badge="Best Value"
-  note="Silicone and ABS construction, nine vibration modes, a flexible dual-ring design, and one-touch control."
->}}
-
+{{< sindept_recommendations title="You might also like" >}}
+{{< sindept_card title="Dual-Loop Vibrating Ring – 9 Modes" price="$14.99" url="https://sindept.com/products/vibrating-dual-cock-ring-9-modes-longer-stronger-more/" image="https://sindept.com/wp-content/uploads/2026/10/ddf0dedfd1a16dd14af04622964eccbd.webp" note="Silicone and ABS construction, nine vibration modes, a flexible dual-ring design, and one-touch control." content="more" >}}
 {{< /sindept_recommendations >}}
+
+For a practical starting point, read our [first-vibrator guide](/guides/how-to-choose-your-first-vibrator/).

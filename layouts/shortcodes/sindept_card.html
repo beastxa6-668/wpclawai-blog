@@ -1,30 +1,20 @@
-{{/* SinDept Product Card Shortcode */}}
-{{/* Usage: {{< sindept_card title="..." price="..." url="..." image="..." badge="..." note="..." >}} */}}
+{{/* One accessible link covers the image, title, price and button. */}}
 {{ $slug := .Page.File.ContentBaseName | default "article" }}
 {{ $rawUrl := .Get "url" }}
+{{ $content := .Get "content" | default "more" }}
 {{ $sep := cond (in $rawUrl "?") "&" "?" }}
-{{ $utmUrl := printf "%s%sutm_source=velvetnotes&utm_medium=blog&utm_campaign=%s" $rawUrl $sep $slug }}
-<div class="sindept-recommendation-card">
-  {{ with .Get "badge" }}
-    <span class="sd-card-badge">{{ . }}</span>
-  {{ end }}
+{{ $utmUrl := printf "%s%sutm_source=velvetnotes&utm_medium=blog&utm_campaign=%s&utm_content=%s" $rawUrl $sep $slug $content }}
+<a class="sindept-recommendation-card{{ if eq $content "hero" }} sd-card-hero{{ end }}" href="{{ $utmUrl }}" target="_blank" rel="noopener noreferrer">
+  {{ with .Get "badge" }}<span class="sd-card-badge">{{ . }}</span>{{ end }}
   <div class="sd-card-content">
-    {{ with .Get "image" }}
-      <div class="sd-card-image-wrap">
-        <img src="{{ . }}" alt="{{ $.Get "title" }}" loading="lazy" />
-      </div>
-    {{ end }}
+    <div class="sd-card-image-wrap"><img src="{{ .Get "image" }}" alt="{{ .Get "title" }}" loading="lazy" /></div>
     <div class="sd-card-details">
       <h4 class="sd-card-title">{{ .Get "title" }}</h4>
-      {{ with .Get "note" }}
-        <p class="sd-card-note">{{ . }}</p>
-      {{ end }}
+      {{ with .Get "note" }}<p class="sd-card-note">{{ . }}</p>{{ end }}
       <div class="sd-card-footer">
-        {{ with .Get "price" }}
-          <span class="sd-card-price">{{ . }}</span>
-        {{ end }}
-        <a href="{{ $utmUrl }}" target="_blank" rel="noopener noreferrer" class="sd-card-btn">View on SinDept →</a>
+        <span class="sd-card-price">{{ .Get "price" }}</span>
+        <span class="sd-card-btn">{{ .Get "button" | default "View on SinDept →" }}</span>
       </div>
     </div>
   </div>
-</div>
+</a>

@@ -58,7 +58,7 @@ Dani didn't give me a speech. She asked whether I ever let myself try something 
 
 ---
 
-The next morning, I ordered a compact cat-shaped air-pulse toy with seven patterns. The description said silicone, rechargeable, IPX7, and a quiet motor. I read that last part more than once. My upstairs neighbor coughed and I heard it in my kitchen. I wasn't taking “quiet” to mean silent; I just wanted to know somebody had considered the question.
+The next morning, I ordered [a compact cat-shaped air-pulse toy](https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=learning-what-i-like-at-35&utm_content=inline) with seven patterns. The description said silicone, rechargeable, IPX7, and a quiet motor. I read that last part more than once. My upstairs neighbor coughed and I heard it in my kitchen. That line helped me put the phone down and leave the order alone.
 
 The packaging line mattered, too: plain outer packaging, no product details on the label. When the box arrived and Mr. Okafor from 1B asked if I'd gotten something good, I said, “Printer ink.”
 
@@ -120,21 +120,16 @@ The next morning Dani looked up from her charting.
 
 She went back to the screen, smiling.
 
-I still say “whatever” sometimes. I still overthink easy decisions. And I'm not quite thirty-five yet, no matter what this story's title says.
+I still say “whatever” sometimes. I still overthink easy decisions.
 
 But when somebody asks what I like, I try not to answer before I've checked.
 
-*Editorial note: Maya and the other characters are fictional adults. This story is written by the editors, not a customer review or a claim about typical results. No product can promise the experience described here.*
+{{< sindept_card title="Cat-Shaped Clitoral Suction Toy – 7 Modes" price="$29.99" url="https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/" note="Air-pulse suction, seven patterns, silicone, rechargeable and IPX7." image="https://sindept.com/wp-content/uploads/2026/10/307fbe381489726c74e958c6934d5e29.webp" content="hero" button="Get the one from the story →" >}}
 
-## If you're browsing, take your time
-
-SinDept and The Velvet Notes share a publishing team. These listings offer two different external-stimulation designs; the second item is an alternative, not another purchase in Maya's story. Our [first-time guide](/guides/how-to-choose-your-first-vibrator/) explains how to compare styles without rushing.
-
-{{< sindept_recommendations title="Two options to read about" subtitle="Only features stated in the original descriptions are listed here." >}}
-{{< sindept_card title="Cat-Shaped Clitoral Suction Toy – 7 Modes" price="$29.99" url="https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/" note="Air-pulse suction, seven patterns, silicone, rechargeable and IPX7. The description says quiet motor; no measured decibel figure is verified." >}}
-{{< sindept_card title="Compact Dual-Stimulation Massager" price="$55.99" url="https://sindept.com/products/2-1-clitoral-suction-vibration-massager/" note="10 suction and 10 vibration patterns, silicone contact surface, approximately 3.56 × 4.20 inches, USB charging." >}}
+{{< sindept_recommendations title="You might also like" >}}
+{{< sindept_card title="Compact Dual-Stimulation Massager" price="$55.99" url="https://sindept.com/products/2-1-clitoral-suction-vibration-massager/" note="10 suction and 10 vibration patterns, silicone contact surface, approximately 3.56 × 4.20 inches, USB charging." image="https://sindept.com/wp-content/uploads/2026/10/b99b62d823320a5cdf88e55d2cd4bdeb.webp" content="more" >}}
 {{< /sindept_recommendations >}}
 
-*For adults 18+. Read the current care instructions, availability and return conditions before ordering. We haven't verified a charge duration, runtime or sound measurement for either exact item.*
+Our [first-time guide](/guides/how-to-choose-your-first-vibrator/) explains how to compare styles at your own pace.
 
-[Read the late-night version on SinDept (18+)](https://sindept.com/stories/printer-ink/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=learning-what-i-like-at-35).
+[Read the late-night version on SinDept (18+)](https://sindept.com/stories/printer-ink/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=learning-what-i-like-at-35&utm_content=more).

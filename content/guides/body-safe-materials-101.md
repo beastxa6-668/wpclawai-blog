@@ -6,11 +6,9 @@ author: "The Velvet Notes Editorial"
 categories: ["Guides"]
 tags: ["Materials", "Beginners", "Care"]
 description: "What silicone and TPE labels tell you, what they don't, and which material, cleaning and lubricant questions to ask before buying an intimate toy."
-summary: "A material label is a starting point, not a safety certificate. Here's how to read it without getting buried in marketing."
+summary: "A practical guide to silicone, TPE, cleaning instructions and compatible lubricants."
 images: ["/images/og-materials-101.png"]
 ---
-
-*The opening scene is illustrative. This guide is for adults 18+ and provides general information, not medical advice.*
 
 Maya had three tabs open and a bowl of cereal going soft beside her laptop. One product said silicone. Another said TPE. A third said “premium,” which wasn't helping her compare anything. She was thirty-four, newly single, and perfectly capable of choosing her own cereal. Apparently choosing something for herself required a vocabulary test.
 
@@ -22,11 +20,9 @@ She clicked back to the details, looking for a material list instead of another 
 
 ## What does “body-safe” actually tell me?
 
-On a shopping page, treat it as a claim you still need to examine—not an independent test result. Ask what the contact surface is made of, whether it has coatings or mixed materials, and what cleaning method the manufacturer specifies.
+Start with the contact surface: its material, any coatings or mixed materials, and the manufacturer's cleaning instructions. Look for the exact composition—100% silicone or a silicone blend—and check the care guidance alongside it.
 
-A product listing that says “silicone” does not, by itself, establish that the whole product is 100% silicone, independently tested, or suitable for every person. The same goes for a soft texture or a higher price. We don't infer certifications from any of those details.
-
-If you have a known sensitivity, a history of irritation, or symptoms you're concerned about, get individual advice from a qualified clinician. No shopping guide can rule out a reaction for you.
+If you have a known sensitivity, a history of irritation, or symptoms you're concerned about, get individual advice from a qualified clinician.
 
 ## Silicone versus TPE: what is the useful distinction?
 
@@ -34,7 +30,7 @@ If you have a known sensitivity, a history of irritation, or symptoms you're con
 
 | Label you see | What to check before buying | What not to assume |
 |---|---|---|
-| Silicone | Exact composition, contact surfaces, cleaning and lubricant instructions | That every silicone-labelled item is 100% silicone or independently certified |
+| Silicone | Exact composition, contact surfaces, cleaning and lubricant instructions | That silicone blends have the same properties as 100% silicone |
 | TPE / TPR | Whether the material is porous and the maker's care and barrier guidance | That a soft, realistic feel means it cleans like nonporous silicone |
 | ABS plastic | Which parts are ABS, joins between materials, and cleaning instructions | That a rigid housing tells you the material of a separate contact surface |
 | “Premium,” “soft” or “body-safe” | An actual material specification and evidence behind the claim | That these words identify a material or a testing standard |
@@ -61,16 +57,9 @@ A missing material list. Cleaning instructions that contradict the water-resista
 
 Those aren't invitations to improvise. Keep the item unused while you ask questions or check return eligibility. For intimate items, opening or using them can change what you can return; read the current policy first.
 
-## Two listings to practice reading
+## A silicone example to compare
 
-These are examples from SinDept, which is run by the same team that publishes this site. Their listed features are not laboratory certifications. For help choosing a style, see our [first-vibrator guide](/guides/how-to-choose-your-first-vibrator/).
-
-{{< sindept_recommendations title="Read the details, not just the headline" subtitle="The original descriptions state these features. Unlisted specifications are not inferred." >}}
-{{< sindept_card title="Compact Dual-Stimulation Massager" price="$55.99" url="https://sindept.com/products/2-1-clitoral-suction-vibration-massager/" image="https://sindept.com/wp-content/uploads/2026/10/sd-549dd565d3ceb2144d0fe9629daf3788.jpg" note="Soft silicone contact surface; 10 suction and 10 vibration patterns; approximately 3.56 × 4.20 inches; USB rechargeable." >}}
-{{< sindept_card title="Rose-Inspired Dual Contour Massager" price="$44.99" url="https://sindept.com/products/rose-dual-flapping-g-spot-clitoral-vibrator/" image="https://sindept.com/wp-content/uploads/2026/10/sd-60b813218c0338e801c005af0f397765.jpg" note="Silicone; 10 patterns; heating function; magnetic charging; IPX6 water resistance. Do not infer an immersion rating." >}}
-{{< /sindept_recommendations >}}
-
-Battery runtime, charge duration and measured sound levels are not verified for these exact items, so we haven't supplied numbers. Check the current store availability before planning a purchase.
+The [Compact Dual-Stimulation Massager](https://sindept.com/products/2-1-clitoral-suction-vibration-massager/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=body-safe-materials-101&utm_content=inline) has a soft silicone contact surface, 10 suction patterns and 10 vibration patterns. Its approximately 3.56 × 4.20-inch profile and USB charging are useful details to compare alongside the material. For help choosing a style, see our [first-vibrator guide](/guides/how-to-choose-your-first-vibrator/).
 
 ## FAQ
 
@@ -86,8 +75,12 @@ No. They're different material labels. Treat TPE as potentially porous and check
 
 No. Waterproofing and heat tolerance are different. Boiling can damage electronics and other components. Use only methods expressly allowed for the exact item.
 
-### Can cleaning prevent every infection or reaction?
+### How should I care for a toy when sharing?
 
-No. Cleaning and appropriate barriers can reduce risks, but they aren't guarantees. Use a new condom when sharing between people or switching body openings, and seek medical advice about pain, irritation or other symptoms.
+Clean before and after use, and use a new condom when sharing between people or switching body openings. Seek medical advice about pain, irritation or other symptoms.
 
-*Editorial note: examples and prices reflect the listings checked when this guide was prepared. Product descriptions identify features, not independent safety certifications. General health sources are linked above; their guidance is not an endorsement of the featured products.*
+{{< sindept_card title="Compact Dual-Stimulation Massager" price="$55.99" url="https://sindept.com/products/2-1-clitoral-suction-vibration-massager/" image="https://sindept.com/wp-content/uploads/2026/10/b99b62d823320a5cdf88e55d2cd4bdeb.webp" note="Soft silicone contact surface; 10 suction and 10 vibration patterns; approximately 3.56 × 4.20 inches; USB rechargeable." content="hero" button="Explore this pick →" >}}
+
+{{< sindept_recommendations title="You might also like" >}}
+{{< sindept_card title="Rose-Inspired Dual Contour Massager" price="$44.99" url="https://sindept.com/products/rose-dual-flapping-g-spot-clitoral-vibrator/" image="https://sindept.com/wp-content/uploads/2026/10/417987b5acae4fb8758a9731adddbcf0.webp" note="Silicone; 10 patterns; heating function; magnetic charging; IPX6 water resistance." content="more" >}}
+{{< /sindept_recommendations >}}

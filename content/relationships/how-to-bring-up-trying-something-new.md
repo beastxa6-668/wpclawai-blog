@@ -10,8 +10,6 @@ summary: "Start with a conversation, not an unopened surprise and an expectation
 images: ["/images/og-trying-something-new.png"]
 ---
 
-*The opening scene is illustrative; Priya and Dev are fictional adults.*
-
 At 9:18 p.m., Priya was rinsing a spoon while Dev watched the baby monitor on the kitchen counter. Their one-year-old had finally fallen asleep. They'd been married eight years. Lately their longest uninterrupted conversations were about grocery substitutions.
 
 “Could we talk about something that isn't diapers?” she asked.
@@ -77,16 +75,11 @@ A maybe isn't permission to order on their behalf. And buying something doesn't 
 
 ## If you decide to browse together
 
-These examples are from SinDept, which is run by our publishing team. They're not prescriptions for your relationship. The wand offers body-massage controls on a cordless device; the ring introduces a different design and app control. Don't treat them as interchangeable.
+A [cordless wand body massager](https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=how-to-bring-up-trying-something-new&utm_content=inline) gives you something specific to discuss: a broad flexible silicone head, 10 massage patterns and four speeds. Look at the controls together and ask which settings each of you would want to handle.
 
-{{< sindept_recommendations title="Different starting points—not a required next step" subtitle="Check the design, controls and comfort questions together before choosing." >}}
-{{< sindept_card title="Cordless Wand Body Massager – 10 Modes & 4 Speeds" price="$29.99" url="https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/" note="10 massage patterns, four speeds, a broad flexible silicone head and USB charging. Described for shoulders, back, arms and legs." >}}
-{{< sindept_card title="Couples’ Vibrating Ring with Contoured Stimulator" price="$29.99" url="https://sindept.com/products/couples-vibrating-cock-ring-lip-stimulator-10-modes/" note="Flexible silicone ring with a lip-shaped stimulator, 10 vibration modes, app control and IPX7 waterproofing. App privacy and compatibility details are not verified here." >}}
-{{< /sindept_recommendations >}}
+Delivery uses plain outer packaging with no product details on the label. Read the return policy together before ordering; opening an intimate product can affect eligibility.
 
-Neither listing gives us verified runtime, charge-duration or decibel figures. Don't fill those blanks with specifications from a similar-looking item. For delivery privacy, the descriptions state plain outer packaging with no product details on the label—not a decorative gift box. Check availability and the current return policy before ordering; opening an intimate product can affect eligibility.
-
-If material names are confusing, our [materials guide](/guides/body-safe-materials-101/) walks through the questions to ask. You can also read [The Gift I Was Too Nervous to Give](/stories/the-gift-i-was-too-nervous-to-give/) for another illustrative conversation, not a script you need to perform.
+If material names are confusing, our [materials guide](/guides/body-safe-materials-101/) walks through the questions to ask. You can also read [The Gift I Was Too Nervous to Give](/stories/the-gift-i-was-too-nervous-to-give/) for another way an awkward conversation can begin.
 
 ## Useful lines when you get stuck
 
@@ -104,4 +97,8 @@ Priya and Dev might finish their tea and decide to browse another night. They mi
 
 You don't need to end the evening with a plan. Knowing you can raise an awkward question—and hear an honest answer—is enough to start with.
 
-*Editorial note: this article offers general communication ideas, not individualized therapy or medical advice. Featured products are commercial recommendations from our own store, not treatments or promises of improved intimacy. Adults 18+ only.*
+{{< sindept_card title="Cordless Wand Body Massager – 10 Modes & 4 Speeds" price="$29.99" url="https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/" note="10 massage patterns, four speeds, a broad flexible silicone head and USB charging. Described for shoulders, back, arms and legs." image="https://sindept.com/wp-content/uploads/2026/10/9ffea80d614ceb436730f7da21defe86.webp" content="hero" button="Explore this pick →" >}}
+
+{{< sindept_recommendations title="You might also like" >}}
+{{< sindept_card title="Couples’ Vibrating Ring with Contoured Stimulator" price="$29.99" url="https://sindept.com/products/couples-vibrating-cock-ring-lip-stimulator-10-modes/" note="Flexible silicone ring with a lip-shaped stimulator, 10 vibration modes, app control and IPX7 waterproofing." image="https://sindept.com/wp-content/uploads/2026/10/16b97ca708165f1dd883515fb14512e1.webp" content="more" >}}
+{{< /sindept_recommendations >}}

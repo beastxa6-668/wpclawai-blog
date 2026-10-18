@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: '0 6 * * *'
       timezone: America/New_York
+    - cron: '30 6 * * *'
+      timezone: America/New_York
+    - cron: '0 8 * * *'
+      timezone: America/New_York
   workflow_dispatch:
 
 permissions:
@@ -18,18 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Check Eastern publication hour
-        id: time
-        env:
-          EVENT_NAME: ${{ github.event_name }}
-        run: |
-          if [ "$EVENT_NAME" = workflow_dispatch ] || [ "$(TZ=America/New_York date +%H)" = 06 ]; then
-            echo 'publish=true' >> "$GITHUB_OUTPUT"
-          else
-            echo 'publish=false' >> "$GITHUB_OUTPUT"
-          fi
       - name: Rebuild Vercel production site
-        if: steps.time.outputs.publish == 'true'
         env:
           DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
         run: |

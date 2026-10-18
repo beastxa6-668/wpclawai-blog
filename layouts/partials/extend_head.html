@@ -200,4 +200,19 @@
   color: #999;
   margin-top: 0.5rem;
 }
+/* Entire cards remain links, including the image on narrow screens. */
+.post-content a.sindept-recommendation-card { text-decoration: none; box-shadow: none; color: inherit; }
+.post-content a.sindept-recommendation-card:hover { box-shadow: 0 8px 24px rgba(139,94,82,.12); }
+.sindept-recommendation-card:focus-visible { outline: 3px solid #8b5e52; outline-offset: 4px; }
+.sd-card-hero { margin: 2rem 0; width: 100%; box-sizing: border-box; }
+.sd-card-hero .sd-card-content { flex-direction: row; gap: 1.5rem; align-items: center; }
+.sd-card-hero .sd-card-image-wrap { flex: 0 0 45%; margin: 0; }
+.sd-card-hero .sd-card-title { font-size: 1.4rem; }
+@media (max-width: 600px) {
+  .sindept-recommendations-section { padding: 1.25rem 1rem; }
+  .sd-cards-grid { grid-template-columns: minmax(0, 1fr); }
+  .sd-card-hero .sd-card-content { flex-direction: column; align-items: stretch; }
+  .sd-card-hero .sd-card-image-wrap { flex-basis: auto; }
+  .sd-card-footer { flex-wrap: wrap; }
+}
 </style>
