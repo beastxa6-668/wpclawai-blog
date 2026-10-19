@@ -1,13 +1,14 @@
 name: Publish scheduled articles
 
 on:
-  schedule:
-    - cron: '0 6 * * *'
-      timezone: America/New_York
-    - cron: '30 6 * * *'
-      timezone: America/New_York
-    - cron: '0 8 * * *'
-      timezone: America/New_York
+  # Vercel schedules paused after the GCP cutover on 2026-10-19.
+  # schedule:
+  #   - cron: '0 6 * * *'
+  #     timezone: America/New_York
+  #   - cron: '30 6 * * *'
+  #     timezone: America/New_York
+  #   - cron: '0 8 * * *'
+  #     timezone: America/New_York
   workflow_dispatch:
 
 permissions:
