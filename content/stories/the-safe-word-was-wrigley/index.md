@@ -1,6 +1,6 @@
 ---
 title: "The Safe Word Was Wrigley"
-date: 2026-10-21T06:00:00-04:00
+date: 2026-11-27T06:00:00-05:00
 draft: true
 slug: "the-safe-word-was-wrigley"
 author: "The Velvet Notes Editorial"
