@@ -5,8 +5,8 @@ slug: "what-discreet-shipping-really-means"
 author: "The Velvet Notes Editorial"
 categories: ["Gift Guides"]
 tags: ["Gifts", "Shipping", "Privacy", "Roommates", "Beginners"]
-description: "What discreet packaging actually covers, what it doesn't, and how to order or send an intimate gift privately when you share a home or mailbox."
-summary: "Plain box, no product details on the label. Here's what that does and doesn't hide, and how to time and send a private gift."
+description: "What discreet packaging covers, how shipping charges and delivery estimates work, and how to send a private gift when you share a home."
+summary: "Plain packaging helps keep a parcel's contents private. Here's what it doesn't hide, plus current shipping costs and estimated delivery times."
 images: ["/images/og-discreet-shipping.png"]
 cover:
   image: "/images/og-discreet-shipping.png"
@@ -19,90 +19,97 @@ Nina came home on a Thursday to find her roommate, Tess, sitting cross-legged in
 
 "This came for you," Tess said. "I signed for nothing. I'm just guarding it."
 
-It was a plain brown box with a white label: Nina's name, the address, a tracking barcode. That was it. Nina had spent most of the week mildly dreading this exact moment, picturing a logo, a product name, maybe a cartoon. Instead it looked like it could be phone cases. Or printer ink.
+It was a plain brown box with a white label. Nina had spent most of the week picturing a product name on the outside. Instead it looked like it could be phone cases. Or printer ink.
 
-"What is it?" Tess asked, with the energy of someone who absolutely did not care and wanted to know immediately.
+"What is it?" Tess asked.
 
-"Birthday thing for my sister," Nina said. Which was true. It was [a cordless wand massager](https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=what-discreet-shipping-really-means&utm_content=inline), the kind with a broad silicone head that's described for shoulders and back. Her sister had complained about her neck for two months straight.
+"Birthday thing for my sister," Nina said. Which was true. Her sister had asked for [a cordless wand massager](https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/), with a broad silicone head and simple controls.
 
 Tess nodded and went back to her laptop. The box did its job.
 
 ## Quick answer
 
-> "Discreet shipping" usually means a plain outer box and a label with only the details the carrier needs: no product names, no pictures. At SinDept, orders ship in plain outer packaging with no product descriptions on the outside. It doesn't hide who the package is addressed to or the tracking emails sent to you. For gifts, allow processing time plus 2–5 business days of delivery in the contiguous U.S., and think about where the box will land.
+> SinDept ships in plain outer packaging without product descriptions outside. It doesn't hide the recipient's name or order emails. Shipping is free on orders of $99 or more after discounts, including dolls. Estimated delivery, including 1–2 business days of processing, is 3–7 business days in the contiguous U.S. and D.C., or 4–9 business days in Alaska and Hawaii.
 
 ## What does discreet packaging actually cover?
 
-On a well-run order, it covers what a roommate, neighbor or mail carrier can see:
+SinDept's [shipping policy](https://sindept.com/shipping-delivery-policy/) says orders ship in plain outer packaging without product descriptions on the outside of the parcel. The shipping label contains the information required by the carrier and applicable law.
 
-- **The outer box** is plain, without product names or images.
-- **The shipping label** shows what the carrier and the law require: your name, the delivery address and tracking details.
-- **Nothing on the outside** tells anyone what's inside.
-
-SinDept's [shipping policy](https://sindept.com/shipping-delivery-policy/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=what-discreet-shipping-really-means&utm_content=inline) says orders ship "in plain outer packaging without product descriptions on the outside of the parcel."
+That protects the contents from being advertised on the outside. It doesn't promise anonymous delivery or a label without the recipient's name and address.
 
 ## What doesn't it hide?
 
-- **Your name on the label.** The person whose name is on it is the person receiving it.
-- **Order and tracking emails.** These go to the email you used at checkout. If you share a computer or a tablet, that's the part to think about.
-- **The fact that a package arrived.** A box is still a box. Someone may ask.
-- **What happens once it's opened.** The product's own retail packaging is inside. If you're sending a gift, the recipient opens it, not you.
+- **The recipient's name and delivery address.** The carrier still needs delivery information.
+- **Order and tracking emails.** Use an email account you control, especially on a shared computer.
+- **The fact that a package arrived.** A plain parcel is still visible in a lobby or on a doorstep.
+- **What happens after it's opened.** Give a gift recipient a heads-up so they can open it privately.
 
 ## How do I order privately if I live with other people?
 
 | Your situation | What helps |
 |---|---|
-| Roommates who grab the mail | Watch tracking and pick it up the day it's delivered |
+| Roommates collect the mail | Watch tracking and arrange to collect the parcel promptly |
 | A shared family email | Use your own email at checkout |
-| Packages left in a lobby | Ship to a workplace mailroom or a parcel locker if available |
-| You'll be away | Choose a delivery window when you're home |
-| You just want it in the house quietly | Bring the box in, open it in your room, recycle the outer box |
+| Packages left in a lobby | Ask the recipient which delivery address they can safely receive at |
+| You'll be away | Order with enough time to receive it; don't assume a selectable delivery window |
+| A private gift | Tell the recipient a parcel is coming and ask them to open it themselves |
 
-You don't owe anyone an explanation for a package. "It's a gift" or "just something I ordered" is plenty.
+A workplace mailroom or collection service is only an option if it accepts that carrier and parcel. Check first rather than assuming a locker or appointment slot is available.
 
 ## How do I send an intimate gift to someone else?
 
-1. **Make sure they'd want it.** An intimate gift should be welcome, not a surprise someone has to figure out how to react to. If you're unsure, pick something with an obvious everyday use, like a body massager.
-2. **Ship to them directly, under their name.** If they live with family or roommates, give them a heads-up: "Something's coming from me, open it yourself."
-3. **Check the delivery area.** SinDept ships within the United States only, including Alaska, Hawaii and Washington, D.C.
-4. **Keep it unopened if you're not sure.** Unused, unopened items with the hygiene seal intact can be returned within 30 days of delivery under the [returns policy](https://sindept.com/returns-refunds-policy/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=what-discreet-shipping-really-means&utm_content=inline). Opened intimate products can't be returned for hygiene reasons, so a gift that's still sealed keeps that option open.
+1. **Make sure they'd want it.** Ask first. An intimate gift shouldn't pressure someone to try a product.
+2. **Confirm the recipient's name and address.** Ask where they want the parcel sent and tell them it's coming.
+3. **Check the delivery area.** SinDept ships within the United States, including Alaska, Hawaii and Washington, D.C., subject to applicable delivery restrictions.
+4. **Keep return eligibility in mind.** Eligible returns must be unused and unworn, unopened with any hygiene seal intact, in original packaging and resalable condition, with proof of purchase. The window is 30 calendar days after confirmed delivery. See the [returns policy](https://sindept.com/returns-refunds-policy/) before ordering.
 
-Nina had shipped hers home because her sister's building leaves packages in the lobby. She dropped it off that weekend, still in the plain box. She texted a photo of it on her kitchen table: "Is this a bomb." Then, an hour later: "Oh. OH. My neck thanks you."
+Nina had shipped hers home because her sister's building leaves packages in the lobby. She dropped it off that weekend, still in the plain box. Later her sister texted a picture: "Birthday mystery solved. Thank you."
 
-## How long does shipping take? Timing a gift
+## What does shipping cost?
 
-From SinDept's shipping policy:
+**Orders of $99 or more after discounts qualify for free shipping, including dolls.** Below $99, these charges apply:
 
-- **Processing:** orders are prepared on business days before they're handed to the carrier; weekends and public holidays don't count.
-- **Delivery after dispatch:** 2–5 business days in the contiguous U.S. and D.C.; 3–7 business days to Alaska and Hawaii.
-- **Cost:** $5.99 standard shipping on orders under $49; free standard shipping at $49 and up (contiguous U.S. and D.C.).
-- **Tracking:** you get a shipping-confirmation email once the order is dispatched; tracking can take 24–72 hours to start showing movement.
+| Destination | Ordinary products | Dolls |
+|---|---|---|
+| Contiguous United States and Washington, D.C. | $5.99 | $29.99 |
+| Alaska and Hawaii | $9.99 | $59.99 |
 
-For a birthday, anniversary or holiday, order at least two weeks ahead. Around big holidays, carriers slow down, so add a few extra days.
+The free-shipping threshold uses the amount after discounts. Check the final shipping charge at checkout before paying.
 
-## Gift ideas that travel well
+## How long does delivery take?
 
-- **A body massager** for someone with a stiff neck or sore shoulders: easy to give, easy to explain.
-- **A compact first toy** for a partner who's already said they're curious. Our [first-vibrator guide](/guides/how-to-choose-your-first-vibrator/) walks through the choices.
-- **Something for two** if you're both in on it. See our guide to [thoughtful gifts for your partner](/gift-guides/thoughtful-gifts-for-your-partner-that-arent-awkward/).
+These are **estimated total delivery times, including 1–2 business days of processing**, not an extra transit period to add afterward:
+
+| Destination | Estimated delivery including processing |
+|---|---|
+| Contiguous United States and Washington, D.C. | 3–7 business days |
+| Alaska and Hawaii | 4–9 business days |
+
+Business days exclude weekends and public holidays. These are estimates, not a guaranteed arrival date. For a gift, leave a buffer beyond the estimate, especially around holidays, and follow tracking when available.
+
+## Gift ideas to discuss together
+
+- **A body massager** for someone who has asked for one. The wand below is described for body massage on shoulders, back, arms and legs; that isn't a promise to treat pain.
+- **A compact first toy** for a partner who has already said they're curious. Our [first-vibrator guide](/guides/how-to-choose-your-first-vibrator/) walks through the choices.
+- **Something for two** if you're both interested. See [thoughtful gifts for your partner](/gift-guides/thoughtful-gifts-for-your-partner-that-arent-awkward/).
 
 ## FAQ
 
-### Will the box say what's inside?
+### Will the parcel say what's inside?
 
-No. SinDept ships in plain outer packaging with no product descriptions on the outside, and the label shows only what the carrier and the law require.
+SinDept uses plain outer packaging without product descriptions outside. The label still carries information required by the carrier and applicable law.
 
-### What if the package says delivered but I can't find it?
+### What if tracking says delivered but I can't find it?
 
-Check with household members and neighbors, then contact SinDept support with your order number. If tracking hasn't updated for 3 business days, reach out as well.
+Check the delivery area, household members, neighbors and the carrier first. Contact SinDept within 7 days of the recorded delivery date with your order number. If tracking hasn't updated for 3 business days, contact support as well.
 
 ### Can I return a gift?
 
-Unused, unopened items with the hygiene seal intact can be returned within 30 days of delivery. Opened intimate products can't be returned, except if they arrive defective, damaged or incorrect.
+Eligible unused, unopened items can be returned within 30 calendar days of confirmed delivery, subject to the full eligibility conditions above. Opened intimate products aren't eligible for change-of-mind returns. This doesn't remove applicable rights for items that arrive defective, damaged or incorrect; contact support within 7 calendar days of delivery for those issues.
 
-{{< sindept_card title="Cordless Wand Body Massager – 10 Modes & 4 Speeds" price="$29.99" url="https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/" note="10 massage patterns, four speeds, a broad flexible silicone head, textured grip and USB charging. Described for shoulders, back, arms and legs." image="https://sindept.com/wp-content/uploads/2026/10/9ffea80d614ceb436730f7da21defe86.webp" content="hero" button="Explore this pick →" >}}
+<div><a class="sindept-recommendation-card sd-card-hero" href="https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/" target="_blank" rel="noopener noreferrer"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/9ffea80d614ceb436730f7da21defe86.webp" alt="Cordless Wand Body Massager" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">Cordless Wand Body Massager – 10 Modes &amp; 4 Speeds</h4><p class="sd-card-note">10 massage patterns, four speeds, a broad flexible silicone head, textured grip and USB charging.</p><div class="sd-card-footer"><span class="sd-card-price">$29.99</span><span class="sd-card-btn">Explore this pick →</span></div></div></div></a></div>
 
 {{< sindept_recommendations title="You might also like" >}}
-{{< sindept_card title="Cat-Shaped Clitoral Suction Toy – 7 Modes" price="$29.99" url="https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/" note="Air-pulse suction, seven patterns, silicone, quiet motor, rechargeable and IPX7 waterproof." image="https://sindept.com/wp-content/uploads/2026/10/307fbe381489726c74e958c6934d5e29.webp" content="more" >}}
-{{< sindept_card title="Couples’ Vibrating Ring with Contoured Stimulator" price="$29.99" url="https://sindept.com/products/couples-vibrating-cock-ring-lip-stimulator-10-modes/" note="Flexible silicone ring with a lip-shaped stimulator, 10 vibration modes, app control and IPX7 waterproofing." image="https://sindept.com/wp-content/uploads/2026/10/16b97ca708165f1dd883515fb14512e1.webp" content="more" >}}
+<div><a class="sindept-recommendation-card" href="https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/" target="_blank" rel="noopener noreferrer"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/307fbe381489726c74e958c6934d5e29.webp" alt="Cat-Shaped Clitoral Suction Toy" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">Cat-Shaped Clitoral Suction Toy – 7 Modes</h4><p class="sd-card-note">Air-pulse suction, seven patterns, silicone, quiet motor, rechargeable and IPX7 waterproof.</p><div class="sd-card-footer"><span class="sd-card-price">$29.99</span><span class="sd-card-btn">View on SinDept →</span></div></div></div></a></div>
+<div><a class="sindept-recommendation-card" href="https://sindept.com/products/couples-vibrating-cock-ring-lip-stimulator-10-modes/" target="_blank" rel="noopener noreferrer"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/16b97ca708165f1dd883515fb14512e1.webp" alt="Couples’ Vibrating Ring with Contoured Stimulator" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">Couples’ Vibrating Ring with Contoured Stimulator</h4><p class="sd-card-note">Flexible silicone ring with a lip-shaped stimulator, 10 vibration modes, app control and IPX7 waterproofing.</p><div class="sd-card-footer"><span class="sd-card-price">$29.99</span><span class="sd-card-btn">View on SinDept →</span></div></div></div></a></div>
 {{< /sindept_recommendations >}}

@@ -15,7 +15,7 @@ cover:
   hiddenInSingle: false
 ---
 
-Maya got home from a twelve-hour shift, dropped her keys in the bowl by the door and remembered, halfway through taking off her shoes, that [the little cat-shaped suction toy](https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=how-to-clean-and-store-your-toys&utm_content=inline) was still on the nightstand where she'd left it two nights ago. Not in a drawer. Not in anything. Just sitting there next to a hair tie and a half-finished glass of water.
+Maya got home from a twelve-hour shift, dropped her keys in the bowl by the door and remembered, halfway through taking off her shoes, that [the little cat-shaped suction toy](https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/) was still on the nightstand where she'd left it two nights ago. Not in a drawer. Not in anything. Just sitting there next to a hair tie and a half-finished glass of water.
 
 She works in an emergency department. She can tell you exactly how long to scrub before touching a patient. Her own nightstand had apparently been running on vibes.
 
@@ -23,7 +23,7 @@ So she stood at the bathroom sink at 8:40 p.m., still in her scrub top, and read
 
 ## Quick answer
 
-> Wash before and after every use with warm water and mild, unscented soap or a toy cleaner made for the material. Rinse, pat dry, then let it air-dry completely. Charge it only when it's dry, and don't use it while it's plugged in. Store it on its own, in a clean pouch or box, somewhere cool and dry.
+> Follow the care instructions for your exact toy: clean before and after use with the permitted soap-and-water method or compatible cleaner. Only rinse or immerse it if those instructions allow it. Let it dry completely before charging or storing, and don't use it while charging. Keep it separately in a clean pouch or box, somewhere cool and dry.
 
 ## What do I actually need?
 
@@ -39,12 +39,12 @@ A toy cleaner is optional. If you buy one, check that it's meant for the materia
 ## How do I clean it, step by step?
 
 1. **Check it's switched off and unplugged.** Close any charging cover.
-2. **Check the water rating.** Fully waterproof toys (often listed as IPX7) can be rinsed under the tap. Splash-resistant ones can't go under running water; wipe them with a damp soapy cloth instead.
-3. **Wash with warm water and a little soap.** Work it into seams, ridges, buttons and any opening. On an air-pulse toy, the soft opening and the area around it deserve the most attention.
-4. **Rinse until no soap is left.** Soap residue is a common cause of a slightly sticky feel.
+2. **Read the cleaning instructions for that exact model.** A water-resistance label is not permission to use every washing method. If the instructions don't permit rinsing or immersion, don't put it under a tap or in a basin; ask the maker how to clean it.
+3. **Clean the contact surfaces as directed.** Use warm water and mild, unscented soap or a compatible cleaner where the instructions allow it. Pay attention to seams and the area around an air-pulse opening, without forcing water into charging ports.
+4. **Remove all cleaner as directed.** Don't leave soap or cleaner on a surface that will touch skin.
 5. **Pat dry, then air-dry.** Leave it on a clean towel until it's completely dry, including any openings and around the buttons.
 
-Maya's cat-shaped toy is a silicone air-pulse toy rated IPX7, so the tap was fine. Her instructions also said to clean it before and after every use, and that it shouldn't be used while charging. The second line was news to her.
+Maya's cat-shaped toy is a silicone air-pulse toy rated IPX7; she followed its own warm-water-and-mild-soap care instructions rather than treating that rating as a cleaning guide. Her instructions also said to clean it before and after every use, and that it shouldn't be used while charging. The second line was news to her.
 
 ## Charging: the step people skip
 
@@ -62,7 +62,7 @@ Maya's cat-shaped toy is a silicone air-pulse toy rated IPX7, so the tap was fin
 | Shared home | A box that closes, kept in your own space | A shared bathroom cabinet |
 | Travel | Its own pouch, charged, in a toiletry bag | A suitcase pocket with no cover |
 
-Storing toys separately matters because some materials react with each other over time, especially softer, realistic-feel materials. A pouch also keeps lint and dust off, which saves you a rewash.
+The cat-shaped toy's care instructions say to store it separately in a cool, dry place. Separate clean pouches also keep items from rubbing against each other and help keep lint and dust off.
 
 Keep the storage spot cool and dry. A windowsill or the top of a radiator is not cool and dry.
 
@@ -93,7 +93,7 @@ Only if the instructions for that exact item say so. Most rechargeable toys have
 
 ### How often should I clean it?
 
-Before and after every use. If it has been in storage for a while, a quick rinse before use is still a good idea.
+Before and after every use, following its own care instructions. Clean it again before use if storage has left it dusty; don't substitute a quick rinse for the recommended cleaning method.
 
 ### Is hand soap okay?
 
@@ -105,11 +105,11 @@ Clean it between people, and consider a condom over insertable toys when sharing
 
 ### Do waterproof toys need special drying?
 
-Yes. Waterproof means water won't get inside; it doesn't mean the outside dries itself. Let it air-dry fully before charging or storing.
+Yes. A water-resistance rating applies only under specified conditions; it doesn't make every washing method safe. Follow the model's care instructions and let it dry fully before charging or storing.
 
-{{< sindept_card title="Cat-Shaped Clitoral Suction Toy – 7 Modes" price="$29.99" url="https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/" note="Air-pulse suction, seven patterns, silicone, quiet motor, rechargeable and IPX7 waterproof." image="https://sindept.com/wp-content/uploads/2026/10/307fbe381489726c74e958c6934d5e29.webp" content="hero" button="Explore this pick →" >}}
+<div><a class="sindept-recommendation-card sd-card-hero" href="https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/" target="_blank" rel="noopener noreferrer"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/307fbe381489726c74e958c6934d5e29.webp" alt="Cat-Shaped Clitoral Suction Toy" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">Cat-Shaped Clitoral Suction Toy – 7 Modes</h4><p class="sd-card-note">Air-pulse suction, seven patterns, silicone, quiet motor, rechargeable and IPX7 waterproof.</p><div class="sd-card-footer"><span class="sd-card-price">$29.99</span><span class="sd-card-btn">Explore this pick →</span></div></div></div></a></div>
 
 {{< sindept_recommendations title="You might also like" >}}
-{{< sindept_card title="Peristaltic G-Spot Wand – 10 Modes" price="$29.99" url="https://sindept.com/products/peristaltic-g-spot-wand-10-modes/" note="Wave-like motion, 10 modes, ridged silicone shaft, quiet motor, rechargeable and waterproof." image="https://sindept.com/wp-content/uploads/2026/10/4f8a730facd408986ecf3376ef738314.webp" content="more" >}}
-{{< sindept_card title="Cordless Wand Body Massager – 10 Modes & 4 Speeds" price="$29.99" url="https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/" note="10 massage patterns, four speeds, a broad flexible silicone head and USB charging." image="https://sindept.com/wp-content/uploads/2026/10/9ffea80d614ceb436730f7da21defe86.webp" content="more" >}}
+<div><a class="sindept-recommendation-card" href="https://sindept.com/products/peristaltic-g-spot-wand-10-modes/" target="_blank" rel="noopener noreferrer"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/4f8a730facd408986ecf3376ef738314.webp" alt="Peristaltic G-Spot Wand" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">Peristaltic G-Spot Wand – 10 Modes</h4><p class="sd-card-note">Wave-like motion, 10 modes, ridged silicone shaft, quiet motor, rechargeable and waterproof.</p><div class="sd-card-footer"><span class="sd-card-price">$29.99</span><span class="sd-card-btn">View on SinDept →</span></div></div></div></a></div>
+<div><a class="sindept-recommendation-card" href="https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/" target="_blank" rel="noopener noreferrer"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/9ffea80d614ceb436730f7da21defe86.webp" alt="Cordless Wand Body Massager" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">Cordless Wand Body Massager – 10 Modes &amp; 4 Speeds</h4><p class="sd-card-note">10 massage patterns, four speeds, a broad flexible silicone head and USB charging.</p><div class="sd-card-footer"><span class="sd-card-price">$29.99</span><span class="sd-card-btn">View on SinDept →</span></div></div></div></a></div>
 {{< /sindept_recommendations >}}
