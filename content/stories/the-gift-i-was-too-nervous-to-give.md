@@ -17,7 +17,7 @@ cover:
 
 It sat inside the bottom drawer of my nightstand for nearly three weeks, buried beneath an old wool sweater and a couple of half-read paperbacks. 
 
-Inside was [a silicone couples ring with a lip-shaped stimulator and app control](https://sindept.com/products/couples-vibrating-cock-ring-lip-stimulator-10-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=the-gift-i-was-too-nervous-to-give&utm_content=inline). I'd read the page twice, then put my phone down before I could talk myself out of ordering.
+Inside was [a silicone couples ring with a lip-shaped stimulator and app control](https://sindept.com/products/couples-vibrating-cock-ring-lip-stimulator-10-modes/). I'd read the page twice, then put my phone down before I could talk myself out of ordering.
 
 I had ordered it during a quiet Thursday lunch break after seeing an article about bringing subtle new sensations into long-term partnerships. My partner, David, and I had been living together for four years. Our relationship was grounded, loving, and deeply supportive. But like so many couples juggling demanding careers and daily domestic routines, our intimacy had slipped into a gentle, predictable rhythm. We were close, but the thrill of spontaneous discovery had slowly taken a back seat.
 

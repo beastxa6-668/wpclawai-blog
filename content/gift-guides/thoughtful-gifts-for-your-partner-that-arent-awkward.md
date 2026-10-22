@@ -58,7 +58,7 @@ When shopping for intimacy gifts, look for a clearly stated contact material, co
 
 ### Curated Picks for Thoughtful Romantics
 
-For a massage-focused gift, look at the [Cordless Wand Body Massager](https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=thoughtful-gifts-for-your-partner-that-arent-awkward&utm_content=inline) together. Its flexible silicone head, 10 patterns and four speeds give you specific preferences to talk about before choosing.
+For a massage-focused gift, look at the [Cordless Wand Body Massager](https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/) together. Its flexible silicone head, 10 patterns and four speeds give you specific preferences to talk about before choosing.
 
 Here are two beautifully balanced, beginner-friendly romance gifts from SinDept that bridge the gap between relaxation and playful exploration. Both arrive in completely unmarked, discreet packaging:
 

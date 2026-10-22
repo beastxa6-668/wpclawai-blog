@@ -80,7 +80,7 @@ A maybe isn't permission to order on their behalf. And buying something doesn't 
 
 ## If you decide to browse together
 
-A [cordless wand body massager](https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=how-to-bring-up-trying-something-new&utm_content=inline) gives you something specific to discuss: a broad flexible silicone head, 10 massage patterns and four speeds. Look at the controls together and ask which settings each of you would want to handle.
+A [cordless wand body massager](https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/) gives you something specific to discuss: a broad flexible silicone head, 10 massage patterns and four speeds. Look at the controls together and ask which settings each of you would want to handle.
 
 Delivery uses plain outer packaging with no product details on the label. Read the return policy together before ordering; opening an intimate product can affect eligibility.
 

@@ -25,7 +25,7 @@ We maintain a high editorial standard: our tone is warm, life-affirming, and res
 
 ### Publishing & Product Recommendations
 
-**The Velvet Notes is published by the team behind [SinDept](https://sindept.com/?utm_source=velvetnotes&utm_medium=blog_about).** 
+**The Velvet Notes is published by the team behind [SinDept](https://sindept.com/).**
 
 We occasionally feature products from our store to help readers compare options. Materials and features are listed on each product page; a material name alone is not a safety certification. Orders ship in plain outer packaging with no product details shown on the label.
 

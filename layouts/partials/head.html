@@ -1,0 +1,13 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="index, follow">
+<title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
+<meta name="description" content="{{ .Description | default .Summary | default site.Params.description | plainify }}"><meta name="author" content="{{ .Params.author | default site.Params.author }}">
+<link rel="canonical" href="{{ .Permalink }}"><meta name="theme-color" content="#3e172b">
+{{- $license := resources.Get "css/core/license.css" -}}{{- $vars := resources.Get "css/core/theme-vars.css" -}}{{- $reset := resources.Get "css/core/reset.css" -}}{{- $common := resources.Match "css/common/*.css" | resources.Concat "assets/css/common.css" -}}{{- $media := resources.Get "css/core/zmedia.css" -}}{{- $extended := resources.Match "css/extended/*.css" | resources.Concat "assets/css/extended.css" -}}
+{{- $css := slice $license $vars $reset $common $media $extended | resources.Concat "assets/css/stylesheet.css" | minify | fingerprint -}}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous">
+{{ range .AlternativeOutputFormats }}<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ .Name }}">{{ end }}
+{{- partial "extend_head.html" . -}}
+{{- partial "templates/opengraph.html" . -}}{{- partial "templates/twitter_cards.html" . -}}{{- partial "templates/schema_json.html" . -}}
+{{- if eq .Layout "search" -}}
+{{- $opts := dict "params" (dict "fuseOpts" site.Params.fuseOpts) -}}{{- $fast := resources.Get "js/fastsearch.js" | js.Build $opts | minify -}}{{- $fuse := resources.Get "js/fuse.basic.min.js" -}}{{- $search := slice $fuse $fast | resources.Concat "assets/js/search.js" | fingerprint -}}<script defer src="{{ $search.RelPermalink }}"></script>
+{{- end -}}

@@ -64,7 +64,7 @@ Those aren't invitations to improvise. Keep the item unused while you ask questi
 
 ## A silicone example to compare
 
-The [Compact Dual-Stimulation Massager](https://sindept.com/products/2-1-clitoral-suction-vibration-massager/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=body-safe-materials-101&utm_content=inline) has a soft silicone contact surface, 10 suction patterns and 10 vibration patterns. Its approximately 3.56 × 4.20-inch profile and USB charging are useful details to compare alongside the material. For help choosing a style, see our [first-vibrator guide](/guides/how-to-choose-your-first-vibrator/).
+The [Cat-Shaped Clitoral Suction Toy](https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/) has a silicone contact surface and seven air-pulse patterns. Its compact profile, rechargeable design and IPX7 rating are useful details to compare alongside the material. For help choosing a style, see our [first-vibrator guide](/guides/how-to-choose-your-first-vibrator/).
 
 ## FAQ
 
@@ -84,7 +84,7 @@ No. Waterproofing and heat tolerance are different. Boiling can damage electroni
 
 Clean before and after use, and use a new condom when sharing between people or switching body openings. Seek medical advice about pain, irritation or other symptoms.
 
-{{< sindept_card title="Compact Dual-Stimulation Massager" price="$55.99" url="https://sindept.com/products/2-1-clitoral-suction-vibration-massager/" image="https://sindept.com/wp-content/uploads/2026/10/b99b62d823320a5cdf88e55d2cd4bdeb.webp" note="Soft silicone contact surface; 10 suction and 10 vibration patterns; approximately 3.56 × 4.20 inches; USB rechargeable." content="hero" button="Explore this pick →" >}}
+{{< sindept_card title="Cat-Shaped Clitoral Suction Toy – 7 Modes" price="$29.99" url="https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/" image="https://sindept.com/wp-content/uploads/2026/10/307fbe381489726c74e958c6934d5e29.webp" note="Silicone contact surface; seven air-pulse patterns; compact, quiet, rechargeable and IPX7 waterproof." content="hero" button="Explore this pick →" >}}
 
 {{< sindept_recommendations title="You might also like" >}}
 {{< sindept_card title="Rose-Inspired Dual Contour Massager" price="$44.99" url="https://sindept.com/products/rose-dual-flapping-g-spot-clitoral-vibrator/" image="https://sindept.com/wp-content/uploads/2026/10/417987b5acae4fb8758a9731adddbcf0.webp" note="Silicone; 10 patterns; heating function; magnetic charging; IPX6 water resistance." content="more" >}}

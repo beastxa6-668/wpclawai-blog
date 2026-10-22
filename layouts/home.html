@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ $articles := where site.RegularPages "Section" "in" site.Params.mainSections }}
 <div class="vn-home">
-<section class="vn-promise"><span class="vn-eyebrow">THE VELVET NOTES · A PRACTICAL GUIDE</span><h1>A little clarity.<br>A lot less guesswork.</h1><p>Honest, judgment-free guides to sex toys, pleasure and relationships, written for real people.</p><div class="vn-actions"><a class="vn-button" href="/toy-finder/">Find your first toy →</a><a href="/gift-guides/">Gift ideas</a><a href="/ask/#ask-a-question">Ask a question</a></div></section>
+<section class="vn-promise"><span class="vn-eyebrow">THE VELVET NOTES · A PRACTICAL GUIDE</span><h1>The Velvet Notes</h1><p>A little clarity. A lot less guesswork.</p><p>Honest, judgment-free guides to sex toys, pleasure and relationships, written for real people.</p><div class="vn-actions"><a class="vn-button" href="{{ "toy-finder/" | relURL }}">Find your first toy →</a><a href="{{ "gift-guides/" | relURL }}">Gift ideas</a><a href="{{ "ask/" | relURL }}#ask-a-question">Ask a question</a></div></section>
 <section aria-labelledby="start-here"><div class="vn-section-heading"><h2 id="start-here">Start here</h2><p>Your first purchase. A thoughtful gift. A conversation worth having.</p></div><div class="vn-article-grid">
 {{ $practical := where $articles "Section" "ne" "stories" }}
 {{ $start := first 3 ($practical.ByDate) }}
@@ -10,6 +10,6 @@
 </div></section>
 <section aria-labelledby="by-type"><div class="vn-section-heading"><h2 id="by-type">Explore by toy type</h2><p>Start with what you're curious about.</p></div><div class="vn-types">
 {{ range slice (dict "name" "Suction toys" "slug" "suction-toys" "text" "Focused external sensations" "image" "og-learning-what-i-like.png") (dict "name" "Vibrators" "slug" "vibrators" "text" "Compare shapes and styles" "image" "og-first-vibrator.png") (dict "name" "For him" "slug" "for-him" "text" "Materials and first-purchase basics" "image" "og-materials-101.png") (dict "name" "Couples" "slug" "couples" "text" "Shared curiosity, zero pressure" "image" "og-gift-story.png") (dict "name" "Bondage basics" "slug" "bondage-basics" "text" "Start with consent and care" "image" "og-trying-something-new.png") }}
-<a href="/tags/{{ .slug }}/"><img src="/images/{{ .image }}" alt="" loading="lazy"><strong>{{ .name }} →</strong><span>{{ .text }}</span></a>{{ end }}</div></section>
+<a href="{{ printf "tags/%s/" .slug | relURL }}"><img src="{{ printf "images/%s" .image | relURL }}" alt="" loading="lazy"><strong>{{ .name }} →</strong><span>{{ .text }}</span></a>{{ end }}</div></section>
 <section aria-labelledby="latest"><div class="vn-section-heading"><h2 id="latest">Latest</h2><p>Useful reads for wherever you are right now.</p></div><div class="vn-article-grid" id="latest-articles">{{ $startIDs := slice }}{{ range $start }}{{ $startIDs = $startIDs | append .RelPermalink }}{{ end }}{{ range $articles.ByDate }}{{ if not (in $startIDs .RelPermalink) }}{{ partial "velvet-article-card.html" . }}{{ end }}{{ end }}</div></section>
 </div>{{ end }}

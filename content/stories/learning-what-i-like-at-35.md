@@ -61,7 +61,7 @@ Dani didn't give me a speech. She asked whether I ever let myself try something 
 
 ---
 
-The next morning, I ordered [a compact cat-shaped air-pulse toy](https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=learning-what-i-like-at-35&utm_content=inline) with seven patterns. The description said silicone, rechargeable, IPX7, and a quiet motor. I read that last part more than once. My upstairs neighbor coughed and I heard it in my kitchen. That line helped me put the phone down and leave the order alone.
+The next morning, I ordered [a compact cat-shaped air-pulse toy](https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/) with seven patterns. The description said silicone, rechargeable, IPX7, and a quiet motor. I read that last part more than once. My upstairs neighbor coughed and I heard it in my kitchen. That line helped me put the phone down and leave the order alone.
 
 The packaging line mattered, too: plain outer packaging, no product details on the label. When the box arrived and Mr. Okafor from 1B asked if I'd gotten something good, I said, “Printer ink.”
 
@@ -130,11 +130,11 @@ But when somebody asks what I like, I try not to answer before I've checked.
 {{< sindept_card title="Cat-Shaped Clitoral Suction Toy – 7 Modes" price="$29.99" url="https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/" note="Air-pulse suction, seven patterns, silicone, rechargeable and IPX7." image="https://sindept.com/wp-content/uploads/2026/10/307fbe381489726c74e958c6934d5e29.webp" content="hero" button="Get the one from the story →" >}}
 
 {{< sindept_recommendations title="You might also like" >}}
-{{< sindept_card title="Compact Dual-Stimulation Massager" price="$55.99" url="https://sindept.com/products/2-1-clitoral-suction-vibration-massager/" note="10 suction and 10 vibration patterns, silicone contact surface, approximately 3.56 × 4.20 inches, USB charging." image="https://sindept.com/wp-content/uploads/2026/10/b99b62d823320a5cdf88e55d2cd4bdeb.webp" content="more" >}}
+{{< sindept_card title="Rose-Inspired Dual Contour Massager" price="$44.99" url="https://sindept.com/products/rose-dual-flapping-g-spot-clitoral-vibrator/" note="Silicone; 10 patterns; heating function; magnetic charging; IPX6 water resistance." image="https://sindept.com/wp-content/uploads/2026/10/417987b5acae4fb8758a9731adddbcf0.webp" content="more" >}}
 {{< /sindept_recommendations >}}
 
 Our [first-time guide](/guides/how-to-choose-your-first-vibrator/) explains how to compare styles at your own pace.
 
-[Read the late-night version on SinDept (18+)](https://sindept.com/stories/printer-ink/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=learning-what-i-like-at-35&utm_content=more).
+[Read the late-night version on SinDept (18+)](https://sindept.com/stories/printer-ink/).
 
 <p class="story-disclaimer">Characters and events are fictional.</p>

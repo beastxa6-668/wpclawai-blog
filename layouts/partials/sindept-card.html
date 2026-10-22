@@ -1,6 +1,5 @@
 {{/* Shared by article shortcodes and the quiz result templates. */}}
-{{ $sep := cond (in .url "?") "&" "?" }}
-{{ $utmUrl := printf "%s%sutm_source=velvetnotes&utm_medium=blog&utm_campaign=%s&utm_content=%s" .url $sep .campaign .content }}
-<a class="sindept-recommendation-card{{ if or (eq .content "hero") .hero }} sd-card-hero{{ end }}" href="{{ $utmUrl }}" target="_blank" rel="noopener noreferrer">
+{{ $cleanUrl := replaceRE `[?&]utm_[^&#]*` "" .url }}
+<a class="sindept-recommendation-card{{ if or (eq .content "hero") .hero }} sd-card-hero{{ end }}" href="{{ $cleanUrl }}" target="_blank" rel="noopener noreferrer">
 {{ with .badge }}<span class="sd-card-badge">{{ . }}</span>{{ end }}
 <div class="sd-card-content"><div class="sd-card-image-wrap"><img src="{{ .image }}" alt="{{ .title }}" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">{{ .title }}</h4>{{ with .note }}<p class="sd-card-note">{{ . }}</p>{{ end }}<div class="sd-card-footer"><span class="sd-card-price">{{ .price }}</span><span class="sd-card-btn">{{ .button | default "View on SinDept →" }}</span></div></div></div></a>

@@ -1,9 +1,10 @@
-baseURL = "https://www.wpclawai.com/"
+baseURL = "https://sindept.com/blog/"
 title = "The Velvet Notes"
 theme = "PaperMod"
 paginate = 10
 defaultContentLanguage = "en"
 languageCode = "en-us"
+enableRobotsTXT = true
 
 [params]
   env = "production"
@@ -27,7 +28,7 @@ languageCode = "en-us"
     Content = "Honest, judgment-free guides to sex toys, pleasure and relationships, written for real people."
 
   [params.assets]
-    favicon = "/favicon.ico"
+    favicon = "favicon.ico"
 
   [params.fuseOpts]
     isCaseSensitive = false

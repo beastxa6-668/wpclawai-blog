@@ -69,13 +69,13 @@ When you are relaxed in bed, the last thing you want is fumbling through complic
 
 ### Curated Starter Picks
 
-The [Compact Dual-Stimulation Massager](https://sindept.com/products/2-1-clitoral-suction-vibration-massager/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=how-to-choose-your-first-vibrator&utm_content=inline) combines air-pulse suction and vibration, with 10 patterns of each and a soft silicone contact surface. Compare those controls with the styles above and choose at your own pace.
+The [Cat-Shaped Clitoral Suction Toy](https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/) offers air-pulse suction, with seven patterns and a silicone contact surface. Compare those controls with the styles above and choose at your own pace.
 
 Here are two options from SinDept with silicone contact surfaces described on their product pages. Orders ship in plain outer packaging with no product details shown on the label:
 
 Take your time, listen to what feels comfortable, and remember that personal pleasure is an ongoing practice of self-care and curiosity.
 
-{{< sindept_card title="Compact Dual-Stimulation Massager" price="$55.99" url="https://sindept.com/products/2-1-clitoral-suction-vibration-massager/" image="https://sindept.com/wp-content/uploads/2026/10/b99b62d823320a5cdf88e55d2cd4bdeb.webp" note="Air-pulse suction and vibration, with 10 patterns of each. Soft silicone contact surface and USB charging." content="hero" button="Explore this pick →" >}}
+{{< sindept_card title="Cat-Shaped Clitoral Suction Toy – 7 Modes" price="$29.99" url="https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/" image="https://sindept.com/wp-content/uploads/2026/10/307fbe381489726c74e958c6934d5e29.webp" note="Air-pulse suction with seven patterns. Silicone, compact, quiet, rechargeable and IPX7 waterproof." content="hero" button="Explore this pick →" >}}
 
 {{< sindept_recommendations title="You might also like" >}}
 {{< sindept_card title="Rose-Inspired Dual Contour Massager" price="$44.99" url="https://sindept.com/products/rose-dual-flapping-g-spot-clitoral-vibrator/" image="https://sindept.com/wp-content/uploads/2026/10/417987b5acae4fb8758a9731adddbcf0.webp" note="Combining gentle warmth, soft rhythmic silicone petals, and 10 vibration patterns for relaxing evening unwinding." content="more" >}}

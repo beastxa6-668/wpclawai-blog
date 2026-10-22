@@ -1,0 +1,3 @@
+{{- with .cxt -}}{{- if and .Params.cover.image (not $.isHidden) -}}
+<figure class="entry-cover"><img loading="{{ if $.IsSingle }}eager{{ else }}lazy{{ end }}" src="{{ strings.TrimPrefix "/" .Params.cover.image | absURL }}" alt="{{ .Params.cover.alt | default .Params.cover.caption | plainify }}">{{ if $.IsSingle }}{{ with .Params.cover.caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}{{ end }}</figure>
+{{- end -}}{{- end -}}
