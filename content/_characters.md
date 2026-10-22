@@ -14,7 +14,9 @@ build:
   - 2026-10-19材料指南开场：选购时辨别材料标签，不引入额外购买经历。
   - 《The Night Shift Shoulder》（外链稿，开张后发；博客草稿 stories/the-night-shift-shoulder，draft）：发生在《Learning What I Like at 35》几周之后，是Maya第二次购买。急诊12小时班后右肩酸痛；病人Walt是退休屋顶工；Dani在休息室建议买无线按摩棒、偷吃Maya的椒盐卷饼。Maya买了Cordless Wand Body Massager（黑色，$29.99）。Mr. Okafor又问"More printer ink?"。第一次插上充电才看到"充电时不能用"，第二晚在沙发上配热敷垫用二档，先是肩膀，后来不止肩膀。之后下班回家固定花十分钟。Kyle仍"有那口好煎锅"。
   - 博客排期约定（2026-10-21鑫哥定，角色冲突清单第10条）：第8周《First Winter Alone》是Maya的第三篇。要把这次按摩棒算进去（下班后固定十分钟放松），不再写成"第二次买"。
-- Jordan & Sam：成年人；Chicago与Denver异地。App遥控和入门同意主题。
+  - 2026-10-26指南《How to Clean and Store Your Toys》开场：某晚下班后发现猫形玩具一直放在床头柜上，第一次认真读清洁说明，之后改用旧耳机袋收纳。不新增购买（后来"又买了一个收纳袋"是袋子，不是商品）。
+- Jordan & Sam：成年人；Chicago与Denver异地。
+  - 2026-10-28《Long Distance, Closer Than Ever》（Sex & Pleasure，第一篇）：10月下旬某个周二晚，Jordan在家改实验报告，Sam在阳台；Sam说想念"在同一个房间"。两人一起看了App控制的可调震动环，当晚没买，Sam说"放进清单"。这是在感恩节之前第一次正面聊亲密话题，没提绑/束缚，跟"九个月前随口提过"和之后周日FaceTime重提不冲突。Jordan性别仍不写明。App遥控和入门同意主题。
   - 《The Safe Word Was Wrigley》（外链稿，开张后发；博客草稿 stories/the-safe-word-was-wrigley，draft）：Jordan第一人称，Chicago Logan Square的八年级科学老师；Sam男性，住Denver，有阳台。异地14个月。九个月前Jordan看剧时半开玩笑提过"绑"；一个周日FaceTime里Sam重新提起。两人在名为"Thanksgiving Logistics"的Google文档里写yes/maybe/no/ask me first清单；安全词"Wrigley"（Jordan是Cubs球迷）。感恩节前的周一Jordan买了Black Snakeskin束缚套装（$19.99），由楼下邻居代收。**Sam感恩节前一天（周三晚）飞到Chicago，住Jordan公寓**；只用了眼罩和手腕铐，口球、鞭、四肢连接扣放回盒子。感恩节在Jordan妈妈家吃饭；Sam周日飞回。这是两人第一次线下尝试束缚。
   - 博客排期约定（2026-10-21鑫哥定，角色冲突清单第1–3、11条）：
     - 第2周《Long Distance, Closer Than Ever》（第一篇）直接用上面的设定：Jordan是八年级科学老师，Sam男性，异地14个月。如果写"第一次聊这种事"，要放在感恩节之前，跟"九个月前随口提过"接得上。
@@ -38,5 +40,7 @@ build:
 ## 外链账号人设（外链稿，开张前后发，均未发布）
 - Quora 账号：不具名的SinDept员工，每篇第一行"Disclosure: I work at SinDept"。回答里说过"first-timers ask me this a lot""I see the shipping side of this every day""Noise is one of the top questions we get""We hear from a lot of long-distance couples"。没有个人恋爱或使用经历，以后也不要加。
 - Reddit 养号账号：不具名，没有个人恋爱、婚姻或使用经历，以后也不要加。2026-10-21按鑫哥定（角色冲突清单第12、13条）把两处编出来的经历改成了中性说法：第6条"saved a lot of couples I know"→"works for a lot of couples"；第8条"What helped us"→"What tends to help most"。
+
+- 2026-10-30《What "Discreet Shipping" Really Means》开场：配角Nina（与室友Tess合住）给姐姐买无线按摩棒当生日礼物，用来缓解脖子酸，直接寄给姐姐。不是固定角色。
 
 配角不与以上主角重名。既有《The Gift I Was Too Nervous to Give》叙述者未命名，伴侣David，交往同居4年；不要冒认为Priya或Dev。
