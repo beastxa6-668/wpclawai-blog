@@ -33,6 +33,8 @@ build:
 - Theo：41岁，好奇男性用品但不好意思。Men's Pleasure。
   - 《Forty-One and Still Hiding the Box》（外链稿，开张后发；博客草稿 stories/forty-one-and-still-hiding-the-box，draft）：第一人称。Tucson的土木工程师（做雨水排水），离婚3年；狗叫Biscuit；皮卡跑了19万英里；大学朋友群里有Kev、Danny。犹豫约一年，看到群里有人说"买过"后下单Automatic Male Masturbator（$32.99）——**这是Theo第一次买男性用品**。前妻仍有他家钥匙（出差时帮忙接狗），把包裹放在厨房台面上。放在门厅柜里一周后才用。
   - 博客排期约定（2026-10-21鑫哥定，角色冲突清单第4–5条）：第3周《The Purchase I Almost Deleted From My Cart》写在外链稿之前：那一年里某个晚上已经加进购物车又删掉，结尾停在没买，不写下单和使用。同周男性入门指南用Theo开头时，照上面的设定写（Tucson、土木工程师、离婚3年、Biscuit）。
+  - 2026-11-02《Your First Men's Toy: Stroker, Ring or Wand?》指南小场景：Theo在工程图后开选购页面，Biscuit经过；比较类型，未下单。
+  - 2026-11-04《The Purchase I Almost Deleted From My Cart》纯故事前传：某个周二晚上9:43，独自在Tucson厨房，把商品放进购物车，遛Biscuit后删除商品、保存页面；结尾没有下单或使用。大学群聊只谈烤肉，不提前重演外链稿的购买触发。
 - Ellen：52岁，离婚后重新开始。新手友好Women's Pleasure。
   - 《The Townhouse Has Thin Walls》（外链稿，开张后发；博客草稿 stories/the-townhouse-has-thin-walls，draft）：第一人称。前夫Greg，26岁结婚、结婚26年，养大两个孩子；离婚文件约一年前签。住Kansas州Overland Park的两居室联排房，邻居Bev（养狗）；姐妹Carol（在Panera聊起）。浴室刷成Sea Salt色。在Hy-Vee小票背面写了三条要求，买了Peristaltic G-Spot Wand（$29.99）——**这是Ellen这辈子第一次买这类东西**。第一晚开机吓到放回去，第二晚才用。时间在秋天、感恩节之前（Carol打电话问感恩节安排）。
   - 博客排期约定（2026-10-21鑫哥定，角色冲突清单第6条）：第4周《Starting Over at 52》写在外链稿之前：签离婚文件、搬进联排房、Carol在Panera问她，结尾停在她开车回家想"allowed"这个词，不买东西。外链稿是它的下一篇。
