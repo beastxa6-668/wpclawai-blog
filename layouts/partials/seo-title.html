@@ -1,0 +1,12 @@
+{{- /* 2026-11-11 自然流：分类页、标签页和同名栏目页标题区分开。 */ -}}
+{{- $title := .Title | default site.Title -}}
+{{- if eq .Kind "term" -}}
+  {{- if eq .Data.Plural "categories" -}}
+    {{- $title = printf "All %s Articles" .Title -}}
+  {{- else -}}
+    {{- $title = printf "Articles Tagged %s" .Title -}}
+  {{- end -}}
+{{- else if eq .Kind "taxonomy" -}}
+  {{- $title = printf "All %s" .Title -}}
+{{- end -}}
+{{- return $title -}}

@@ -1,0 +1,14 @@
+{{- /* 2026-11-11 自然流：分类页、标签页不再共用站点的通用描述。 */ -}}
+{{- $desc := .Description | default .Summary | default site.Params.description | plainify -}}
+{{- if eq .Kind "term" -}}
+  {{- $n := len .Pages -}}
+  {{- $word := cond (eq $n 1) "article" "articles" -}}
+  {{- if eq .Data.Plural "categories" -}}
+    {{- $desc = printf "Every Velvet Notes post filed under %s: %d %s with practical answers and honest stories from the SinDept editorial team." .Title $n $word -}}
+  {{- else -}}
+    {{- $desc = printf "%d Velvet Notes %s tagged %s, from practical how-to guides to short stories, written by the SinDept editorial team." $n $word .Title -}}
+  {{- end -}}
+{{- else if eq .Kind "taxonomy" -}}
+  {{- $desc = printf "Browse every %s used on The Velvet Notes, the SinDept blog about toys, pleasure and relationships." (lower .Title) -}}
+{{- end -}}
+{{- return $desc -}}

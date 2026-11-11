@@ -1,0 +1,9 @@
+{{- /* 2026-11-11 自然流：标签/分类总览页、文章少于 3 篇的标签和分类页不收录，并移出站点地图。 */ -}}
+{{- $noindex := false -}}
+{{- if eq .Kind "taxonomy" -}}
+  {{- $noindex = true -}}
+{{- else if and (eq .Kind "term") (lt (len .Pages) 3) -}}
+  {{- $noindex = true -}}
+{{- end -}}
+{{- if .Params.noindex -}}{{- $noindex = true -}}{{- end -}}
+{{- return $noindex -}}
