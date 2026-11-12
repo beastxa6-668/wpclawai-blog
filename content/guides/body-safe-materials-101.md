@@ -1,6 +1,7 @@
 ---
 title: "Body-Safe Materials 101: Silicone, TPE and What to Avoid"
 date: 2026-10-19T06:00:00-04:00
+lastmod: 2026-11-12T12:00:00-05:00
 slug: "body-safe-materials-101"
 author: "The Velvet Notes Editorial"
 categories: ["Guides"]
@@ -41,6 +42,23 @@ If you have a known sensitivity, a history of irritation, or symptoms you're con
 | “Premium,” “soft” or “body-safe” | An actual material specification and evidence behind the claim | That these words identify a material or a testing standard |
 
 You don't need to memorize a catalog of polymers. You do need an answer more specific than “luxury feel.” If the description is unclear, ask before ordering. A retailer who cannot identify the contact material has not given you enough to make an informed choice.
+
+## Is TPE toxic? Is TPE safe for a sex toy?
+
+Short answer: "TPE" alone doesn't tell you either way. TPE (thermoplastic elastomer, sometimes sold as TPR) is a family of soft, rubbery plastics, not one recipe, so two toys labeled TPE can be made quite differently. What the evidence does support:
+
+- **It's treated as porous.** Sexual-health guidance groups TPE and TPR with materials that can hold onto bacteria in a way nonporous 100% silicone doesn't. In a small 2014 study published in *Sexually Transmitted Infections*, HPV was still found on a TPE vibrator in 5 of 9 cases right after cleaning, and in 2 of 5 of those a day later; on the silicone vibrator it was found in 4 of 9 right after cleaning and in none after 24 hours ([PubMed 24739872](https://pubmed.ncbi.nlm.nih.gov/24739872/)). Twelve participants is a small sample, but it's a useful reason not to share TPE toys without a condom.
+- **"Jelly" is a different and bigger worry.** A Danish Environmental Protection Agency survey found that toys sold as "jelly" were plasticized PVC with plasticizer content up to 70%, mostly phthalates such as DEHP ([Danish EPA, 2006](https://www2.mst.dk/udgiv/publications/2006/87-7052-227-8/html/helepubl_eng.htm)). It also noted oil-based lubricants increase how much plasticizer migrates. If a listing says "jelly" without naming the material, treat that as missing information.
+- **"Phthalate-free" is a claim, not a test result.** Unless the seller can point to testing for that product, read it as the maker's statement.
+
+### What we'd do with a TPE toy
+
+1. Prefer 100% silicone for anything used internally or shared.
+2. If you do choose TPE (common for strokers and realistic sleeves because of the feel), keep it to one person, or use a condom over it.
+3. Use water-based lube, wash with warm water and mild soap after every use, and let it dry completely before storing it on its own.
+4. Replace it if it turns sticky, cloudy, cracked or starts to smell.
+
+**Searchers also ask:** *What is TPE silicone?* There isn't such a thing; TPE and silicone are separate materials, and "TPE silicone" usually means a listing that's mixing up the two. *TPR vs silicone?* TPR is a type of TPE, so the same porous-versus-nonporous difference applies.
 
 ## Can I boil it, soak it or put it in the dishwasher?
 
