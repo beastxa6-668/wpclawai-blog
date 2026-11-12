@@ -1,5 +1,7 @@
 {{/* Shared by article shortcodes and the quiz result templates. */}}
-{{ $cleanUrl := replaceRE `[?&]utm_[^&#]*` "" .url }}
+{{/* 11/12: keep/add utm_* — the blog is on sindept.com, so the funnel ignores same-host referrers; UTM is the only way to credit blog clicks. */}}
+{{ $cleanUrl := .url }}
+{{ if and (in .url "sindept.com/") (not (in .url "utm_source=")) }}{{ $sep := cond (in .url "?") "&" "?" }}{{ $cleanUrl = printf "%s%sutm_source=velvetnotes&utm_medium=blog&utm_campaign=%s" .url $sep (.campaign | default "article") }}{{ end }}
 <a class="sindept-recommendation-card{{ if or (eq .content "hero") .hero }} sd-card-hero{{ end }}" href="{{ $cleanUrl }}" target="_blank" rel="noopener noreferrer">
 {{ with .badge }}<span class="sd-card-badge">{{ . }}</span>{{ end }}
 <div class="sd-card-content"><div class="sd-card-image-wrap"><img src="{{ .image }}" alt="{{ .title }}" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">{{ .title }}</h4>{{ with .note }}<p class="sd-card-note">{{ . }}</p>{{ end }}<div class="sd-card-footer"><span class="sd-card-price">{{ .price }}</span><span class="sd-card-btn">{{ .button | default "View on SinDept →" }}</span></div></div></div></a>
