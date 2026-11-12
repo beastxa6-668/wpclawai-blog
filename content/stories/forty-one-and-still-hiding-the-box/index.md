@@ -46,7 +46,7 @@ I'm an engineer, so I did it like an engineer: requirements first, product secon
 2. Simple controls. I have a microwave with nineteen buttons and I use one.
 3. Not a giant thing that looks like it belongs in a lab.
 
-I ended up with the [Automatic Male Masturbator with 7 Vibration & 3 Suction Modes](https://sindept.com/products/automatic-male-masturbator-7-vibration-3-suction-modes/) from SinDept. The listing said it was compact and fit comfortably in the hand. One-button control. Seven vibration modes, three suction modes. Soft textured TPE sleeve. And the line I cared about most: fully detachable for cleaning, with the sleeve coming out to wash after every use.
+I ended up with the [Automatic Male Masturbator with 7 Vibration & 3 Suction Modes](https://sindept.com/products/automatic-male-masturbator-7-vibration-3-suction-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=forty-one-and-still-hiding-the-box) from SinDept. The listing said it was compact and fit comfortably in the hand. One-button control. Seven vibration modes, three suction modes. Soft textured TPE sleeve. And the line I cared about most: fully detachable for cleaning, with the sleeve coming out to wash after every use.
 
 I read up on TPE because that's who I am. It's soft, but it's porous, which means you actually have to wash it properly and let it dry all the way. The care instructions said the same thing: mild soap or toy cleaner, rinse, dry completely before you put it back together. Water-based lube only. That honesty made me feel better, not worse.
 
@@ -90,7 +90,7 @@ The group chat is still mostly fantasy football. Nobody's brought it up again. B
 
 That's all. Small steps. Biscuit approves.
 
-{{< sindept_card title="Automatic Male Masturbator with 7 Vibration & 3 Suction Modes" price="$32.99" url="https://sindept.com/products/automatic-male-masturbator-7-vibration-3-suction-modes/" note="7 vibration and 3 suction modes, a soft 3D textured TPE sleeve, one-button control and a fully detachable design for cleaning." image="https://sindept.com/wp-content/uploads/2026/10/e7ef1d4646fbed811ada9b55d5c82b71.webp" content="hero" button="Get the one from the story →" >}}
+{{< sindept_card title="Automatic Male Masturbator with 7 Vibration & 3 Suction Modes" price="$32.99" url="https://sindept.com/products/automatic-male-masturbator-7-vibration-3-suction-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=forty-one-and-still-hiding-the-box" note="7 vibration and 3 suction modes, a soft 3D textured TPE sleeve, one-button control and a fully detachable design for cleaning." image="https://sindept.com/wp-content/uploads/2026/10/e7ef1d4646fbed811ada9b55d5c82b71.webp" content="hero" button="Get the one from the story →" >}}
 
 Wondering what TPE actually means? Our [materials guide]({{< relref "/guides/body-safe-materials-101.md" >}}) explains it.
 

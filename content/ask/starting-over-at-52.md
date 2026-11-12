@@ -87,7 +87,7 @@ Our guide to [bringing up trying something new](/relationships/how-to-bring-up-t
 
 Start with the type of contact you want, accessible controls, care instructions and the amount you're comfortable spending. Read our [first-vibrator guide](/guides/how-to-choose-your-first-vibrator/) before narrowing the choices.
 
-For one concrete comparison, the [Peristaltic G-Spot Wand](https://sindept.com/products/peristaltic-g-spot-wand-10-modes/) is **$29.99** and has a curved, ridged silicone shaft, peristaltic movement, vibration, ten modes and rechargeable operation. That is a specific design to consider if those features interest you, not a required starting point. Its care instructions say to clean before and after use, dry fully before storage and keep it off while charging.
+For one concrete comparison, the [Peristaltic G-Spot Wand](https://sindept.com/products/peristaltic-g-spot-wand-10-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=starting-over-at-52) is **$29.99** and has a curved, ridged silicone shaft, peristaltic movement, vibration, ten modes and rechargeable operation. That is a specific design to consider if those features interest you, not a required starting point. Its care instructions say to clean before and after use, dry fully before storage and keep it off while charging.
 
 You can finish reading, close the page and decide another day.
 
@@ -109,6 +109,6 @@ No. Stop when something hurts. Seek medical advice for recurring discomfort, pai
 
 Only if that's what you want. You can begin by identifying preferences and boundaries, then compare products later—or leave shopping out entirely.
 
-<div><a class="sindept-recommendation-card sd-card-hero" href="https://sindept.com/products/peristaltic-g-spot-wand-10-modes/"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/4f8a730facd408986ecf3376ef738314.webp" alt="Peristaltic G-Spot Wand" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">Peristaltic G-Spot Wand</h4><p class="sd-card-note">Curved silicone design, peristaltic movement, ten modes and rechargeable operation.</p><div class="sd-card-footer"><span class="sd-card-price">$29.99</span><span class="sd-card-btn">Explore this design →</span></div></div></div></a></div>
+<div><a class="sindept-recommendation-card sd-card-hero" href="https://sindept.com/products/peristaltic-g-spot-wand-10-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=starting-over-at-52"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/4f8a730facd408986ecf3376ef738314.webp" alt="Peristaltic G-Spot Wand" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">Peristaltic G-Spot Wand</h4><p class="sd-card-note">Curved silicone design, peristaltic movement, ten modes and rechargeable operation.</p><div class="sd-card-footer"><span class="sd-card-price">$29.99</span><span class="sd-card-btn">Explore this design →</span></div></div></div></a></div>
 
 <small>The Velvet Notes is published by the team behind SinDept. Characters and events in the opening scene are fictional.</small>

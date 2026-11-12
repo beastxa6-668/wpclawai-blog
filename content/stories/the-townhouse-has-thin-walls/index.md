@@ -52,7 +52,7 @@ I had three requirements, and I wrote them on the back of a Hy-Vee receipt.
 2. Easy to clean. I'm not going to be fussy about it at midnight.
 3. Not ridiculous-looking. I don't know why this mattered. It did.
 
-I found the [Peristaltic G-Spot Wand](https://sindept.com/products/peristaltic-g-spot-wand-10-modes/) on SinDept after an embarrassing amount of scrolling. Slender, curved. Silicone. Ten modes. Rechargeable. The description said *quiet motor*, and it said *waterproof design for easier cleaning*, and I sat back in my chair and said "huh" out loud to an empty kitchen.
+I found the [Peristaltic G-Spot Wand](https://sindept.com/products/peristaltic-g-spot-wand-10-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=the-townhouse-has-thin-walls) on SinDept after an embarrassing amount of scrolling. Slender, curved. Silicone. Ten modes. Rechargeable. The description said *quiet motor*, and it said *waterproof design for easier cleaning*, and I sat back in my chair and said "huh" out loud to an empty kitchen.
 
 I didn't know what "peristaltic" meant. I had to look it up. Wave-like movement. Rhythmic. That sounded either wonderful or like a seasickness situation, and I honestly couldn't tell which.
 
@@ -108,7 +108,7 @@ She waited.
 
 She laughed so loud I had to hold the phone away from my ear.
 
-{{< sindept_card title="Peristaltic G-Spot Wand – 10 Modes" price="$29.99" url="https://sindept.com/products/peristaltic-g-spot-wand-10-modes/" note="Wave-like peristaltic motion and vibration, 10 modes, silicone, rechargeable, quiet motor and a waterproof design for easier cleaning." image="https://sindept.com/wp-content/uploads/2026/10/4f8a730facd408986ecf3376ef738314.webp" content="hero" button="Get the one from the story →" >}}
+{{< sindept_card title="Peristaltic G-Spot Wand – 10 Modes" price="$29.99" url="https://sindept.com/products/peristaltic-g-spot-wand-10-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=the-townhouse-has-thin-walls" note="Wave-like peristaltic motion and vibration, 10 modes, silicone, rechargeable, quiet motor and a waterproof design for easier cleaning." image="https://sindept.com/wp-content/uploads/2026/10/4f8a730facd408986ecf3376ef738314.webp" content="hero" button="Get the one from the story →" >}}
 
 If you are choosing a first toy, our [first-vibrator guide]({{< relref "/guides/how-to-choose-your-first-vibrator.md" >}}) walks through the options at your own pace.
 

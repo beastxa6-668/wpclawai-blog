@@ -18,7 +18,7 @@ Jordan had three tabs open beside a stack of eighth-grade lab reports. On the vi
 
 “Exactly.”
 
-They returned to the [adjustable app-controlled vibrating ring](https://sindept.com/products/adjustable-vibrating-cock-ring-app-control-10-modes/) they'd put on their list in October. This time, instead of looking at the pictures, they made a second list: phone setup, sharing controls, stopping.
+They returned to the [adjustable app-controlled vibrating ring](https://sindept.com/products/adjustable-vibrating-cock-ring-app-control-10-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=app-controlled-toys-how-they-work-range-and-privacy) they'd put on their list in October. This time, instead of looking at the pictures, they made a second list: phone setup, sharing controls, stopping.
 
 Jordan wrote “Who can connect?” in the margin of a worksheet, then moved the question to a fresh page before a student could inherit it. Neither of them ordered anything that evening. They wanted the setup to feel like something they had chosen together, not another technical problem assigned to one person.
 
@@ -97,6 +97,6 @@ Pause, use the local controls to stop and check in with each other. Reconnect de
 
 Choose around the control method you want. This adjustable ring includes on-device buttons as well as app control; compare that with a button-only product if you'd rather skip phone setup.
 
-<div><a class="sindept-recommendation-card sd-card-hero" href="https://sindept.com/products/adjustable-vibrating-cock-ring-app-control-10-modes/"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/385f7c600a62a0e0fcfdd57e474564ec.jpg" alt="Adjustable app-controlled vibrating ring" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">Adjustable App-Controlled Vibrating Ring</h4><p class="sd-card-note">Ten vibration modes, adjustable straps, silicone and on-device buttons.</p><div class="sd-card-footer"><span class="sd-card-price">$21.99</span><span class="sd-card-btn">See the ring from the shortlist →</span></div></div></div></a></div>
+<div><a class="sindept-recommendation-card sd-card-hero" href="https://sindept.com/products/adjustable-vibrating-cock-ring-app-control-10-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=app-controlled-toys-how-they-work-range-and-privacy"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/385f7c600a62a0e0fcfdd57e474564ec.jpg" alt="Adjustable app-controlled vibrating ring" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">Adjustable App-Controlled Vibrating Ring</h4><p class="sd-card-note">Ten vibration modes, adjustable straps, silicone and on-device buttons.</p><div class="sd-card-footer"><span class="sd-card-price">$21.99</span><span class="sd-card-btn">See the ring from the shortlist →</span></div></div></div></a></div>
 
 <small>The Velvet Notes is published by the team behind SinDept. Characters and events in the opening scene are fictional.</small>

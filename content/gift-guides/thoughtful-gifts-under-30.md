@@ -36,7 +36,7 @@ For help finding the words, see [how to bring up trying something new](/relation
 
 ## 1. For someone who asked for body massage: $29.99
 
-The [Cordless Wand Body Massager](https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/) offers a broad, flexible silicone head, **ten massage patterns and four speeds**, a textured grip and USB charging. Its description includes use on the shoulders, back, arms and legs.
+The [Cordless Wand Body Massager](https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=thoughtful-gifts-under-30) offers a broad, flexible silicone head, **ten massage patterns and four speeds**, a textured grip and USB charging. Its description includes use on the shoulders, back, arms and legs.
 
 Choose it when the recipient has asked for broad body massage and likes the idea of a handheld device. Ask about the type of pressure they enjoy rather than assuming the highest setting will be the most useful.
 
@@ -46,7 +46,7 @@ The care instructions say to start low, move gently, clean before and after use,
 
 ## 2. For a couple interested in phone controls: $21.99
 
-The [Adjustable App-Controlled Vibrating Ring](https://sindept.com/products/adjustable-vibrating-cock-ring-app-control-10-modes/) has **ten modes: seven variable and three constant**, adjustable straps, silicone construction, app control and on-device buttons.
+The [Adjustable App-Controlled Vibrating Ring](https://sindept.com/products/adjustable-vibrating-cock-ring-app-control-10-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=thoughtful-gifts-under-30) has **ten modes: seven variable and three constant**, adjustable straps, silicone construction, app control and on-device buttons.
 
 Its appeal is choosing how to control the settings. Before buying, decide whether phone setup sounds fun to both people. Check the required app, phone compatibility, permissions and partner-sharing instructions together.
 
@@ -56,7 +56,7 @@ Fit matters more than the feature list. Discuss whether a wearable is something 
 
 ## 3. For someone who prefers a button: $14.99
 
-The [Dual Vibrating Cock Ring](https://sindept.com/products/vibrating-dual-cock-ring-9-modes-longer-stronger-more/) has **nine vibration modes**, a soft, stretchy dual-ring design, silicone and ABS, and a single control button.
+The [Dual Vibrating Cock Ring](https://sindept.com/products/vibrating-dual-cock-ring-9-modes-longer-stronger-more/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=thoughtful-gifts-under-30) has **nine vibration modes**, a soft, stretchy dual-ring design, silicone and ABS, and a single control button.
 
 Choose it for an adult who specifically wants a dual-ring wearable and would rather use a physical button than an app. Compare the shape and fitting instructions with the recipient; a smaller price doesn't make every design an appropriate first choice.
 
@@ -102,11 +102,11 @@ Ask first unless you've already agreed that this kind of surprise is welcome. A 
 
 Only if you independently want that item. Compare your actual basket total with the delivery charge; spending more to reach $99 can defeat a modest gift budget.
 
-<div><a class="sindept-recommendation-card sd-card-hero" href="https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/9ffea80d614ceb436730f7da21defe86.webp" alt="Cordless Wand Body Massager" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">Cordless Wand Body Massager</h4><p class="sd-card-note">Broad silicone head, ten patterns, four speeds and USB charging.</p><div class="sd-card-footer"><span class="sd-card-price">$29.99</span><span class="sd-card-btn">See the body-massage gift →</span></div></div></div></a></div>
+<div><a class="sindept-recommendation-card sd-card-hero" href="https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=thoughtful-gifts-under-30"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/9ffea80d614ceb436730f7da21defe86.webp" alt="Cordless Wand Body Massager" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">Cordless Wand Body Massager</h4><p class="sd-card-note">Broad silicone head, ten patterns, four speeds and USB charging.</p><div class="sd-card-footer"><span class="sd-card-price">$29.99</span><span class="sd-card-btn">See the body-massage gift →</span></div></div></div></a></div>
 
 {{< sindept_recommendations title="You might also like" >}}
-<div><a class="sindept-recommendation-card" href="https://sindept.com/products/adjustable-vibrating-cock-ring-app-control-10-modes/"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/385f7c600a62a0e0fcfdd57e474564ec.jpg" alt="Adjustable app-controlled vibrating ring" loading="lazy"></div><div class="sd-card-details"><h4>Adjustable App-Controlled Ring</h4><p>Ten modes, adjustable straps and local buttons.</p><span class="sd-card-price">$21.99</span><span class="sd-card-btn">Compare the app option →</span></div></div></a></div>
-<div><a class="sindept-recommendation-card" href="https://sindept.com/products/vibrating-dual-cock-ring-9-modes-longer-stronger-more/"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/ddf0dedfd1a16dd14af04622964eccbd.webp" alt="Dual vibrating ring" loading="lazy"></div><div class="sd-card-details"><h4>Dual Vibrating Ring</h4><p>Nine modes, silicone and ABS, with a single control button.</p><span class="sd-card-price">$14.99</span><span class="sd-card-btn">See the button-control option →</span></div></div></a></div>
+<div><a class="sindept-recommendation-card" href="https://sindept.com/products/adjustable-vibrating-cock-ring-app-control-10-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=thoughtful-gifts-under-30"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/385f7c600a62a0e0fcfdd57e474564ec.jpg" alt="Adjustable app-controlled vibrating ring" loading="lazy"></div><div class="sd-card-details"><h4>Adjustable App-Controlled Ring</h4><p>Ten modes, adjustable straps and local buttons.</p><span class="sd-card-price">$21.99</span><span class="sd-card-btn">Compare the app option →</span></div></div></a></div>
+<div><a class="sindept-recommendation-card" href="https://sindept.com/products/vibrating-dual-cock-ring-9-modes-longer-stronger-more/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=thoughtful-gifts-under-30"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/ddf0dedfd1a16dd14af04622964eccbd.webp" alt="Dual vibrating ring" loading="lazy"></div><div class="sd-card-details"><h4>Dual Vibrating Ring</h4><p>Nine modes, silicone and ABS, with a single control button.</p><span class="sd-card-price">$14.99</span><span class="sd-card-btn">See the button-control option →</span></div></div></a></div>
 {{< /sindept_recommendations >}}
 
 <small>The Velvet Notes is published by the team behind SinDept. Characters and events in the opening scene are fictional.</small>

@@ -54,7 +54,7 @@ What I felt, honestly, was relief. Not because of the thing itself. Because for 
 
 We looked at it together on his phone, sitting on the kitchen floor with our backs against the cabinets, because the couch was covered in laundry.
 
-He'd already picked one: the [Vibrating Prostate Massager with Perineum Stimulator](https://sindept.com/products/vibrating-prostate-massager-perineum-stimulator/) on SinDept. He'd read the description enough times that he could recite it, which was extremely Dev.
+He'd already picked one: the [Vibrating Prostate Massager with Perineum Stimulator](https://sindept.com/products/vibrating-prostate-massager-perineum-stimulator/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=devs-turn-to-ask) on SinDept. He'd read the description enough times that he could recite it, which was extremely Dev.
 
 "ABS and silicone," he said. "High-frequency vibration. About five inches long. Curved. Says it's for solo use or couples."
 
@@ -108,7 +108,7 @@ In the morning we were back to logistics. Wipes, forms, whose turn it was. Anika
 
 But when Dev left for work, he kissed me at the door like he meant something by it. I stood in the kitchen with a banana on my sock and I smiled for no reason at all.
 
-{{< sindept_card title="Vibrating Prostate Massager with Perineum Stimulator" price="$34.99" url="https://sindept.com/products/vibrating-prostate-massager-perineum-stimulator/" note="ABS + silicone, high-frequency vibration and a curved design with a perineum stimulator. Approx. 5.2 × 5.16 × 1.61 inches. Solo or couples." image="https://sindept.com/wp-content/uploads/2026/10/40aa70ac09cc02151db7212a697db50e.png" content="hero" button="Get the one from the story →" >}}
+{{< sindept_card title="Vibrating Prostate Massager with Perineum Stimulator" price="$34.99" url="https://sindept.com/products/vibrating-prostate-massager-perineum-stimulator/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=devs-turn-to-ask" note="ABS + silicone, high-frequency vibration and a curved design with a perineum stimulator. Approx. 5.2 × 5.16 × 1.61 inches. Solo or couples." image="https://sindept.com/wp-content/uploads/2026/10/40aa70ac09cc02151db7212a697db50e.png" content="hero" button="Get the one from the story →" >}}
 
 Priya first brought it up in [How to Bring Up Trying Something New]({{< relref "/relationships/how-to-bring-up-trying-something-new.md" >}}).
 

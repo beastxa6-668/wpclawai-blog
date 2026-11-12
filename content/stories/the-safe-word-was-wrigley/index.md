@@ -56,7 +56,7 @@ We picked a safe word on a call while I was grading quizzes. He suggested "pinea
 
 ---
 
-I ordered the [Black Snakeskin BDSM Bondage Set](https://sindept.com/products/black-snakeskin-bdsm-bondage-set-8-piece-restraint-kit/) from SinDept the Monday before Thanksgiving. It was $19.99, which felt low enough that if it turned out to be a terrible idea, at least it was a cheap terrible idea.
+I ordered the [Black Snakeskin BDSM Bondage Set](https://sindept.com/products/black-snakeskin-bdsm-bondage-set-8-piece-restraint-kit/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=the-safe-word-was-wrigley) from SinDept the Monday before Thanksgiving. It was $19.99, which felt low enough that if it turned out to be a terrible idea, at least it was a cheap terrible idea.
 
 I read the whole description twice in the teachers' lounge with my screen dimmed all the way down.
 
@@ -110,7 +110,7 @@ On Thanksgiving my mom asked us how the visit was going so far. Sam said, "Reall
 
 The box is back on my shelf now, next to the Dutch oven. Sam flies home Sunday. We already updated the doc.
 
-{{< sindept_card title="Black Snakeskin BDSM Bondage Set – 8-Piece Restraint Kit" price="$19.99" url="https://sindept.com/products/black-snakeskin-bdsm-bondage-set-8-piece-restraint-kit/" note="Snakeskin-textured faux leather with soft fleece lining, metal hardware and adjustable buckle straps. Includes collar, chain leash, wrist and ankle cuffs, ball gag, blindfold, flogger and hogtie connector." image="https://sindept.com/wp-content/uploads/2026/10/4d0d7a5a1a20d2135887719ac5f95d80.jpg" content="hero" button="Get the one from the story →" >}}
+{{< sindept_card title="Black Snakeskin BDSM Bondage Set – 8-Piece Restraint Kit" price="$19.99" url="https://sindept.com/products/black-snakeskin-bdsm-bondage-set-8-piece-restraint-kit/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=the-safe-word-was-wrigley" note="Snakeskin-textured faux leather with soft fleece lining, metal hardware and adjustable buckle straps. Includes collar, chain leash, wrist and ankle cuffs, ball gag, blindfold, flogger and hogtie connector." image="https://sindept.com/wp-content/uploads/2026/10/4d0d7a5a1a20d2135887719ac5f95d80.jpg" content="hero" button="Get the one from the story →" >}}
 
 For the conversation before any of this, read [How to Bring Up Trying Something New]({{< relref "/relationships/how-to-bring-up-trying-something-new.md" >}}).
 

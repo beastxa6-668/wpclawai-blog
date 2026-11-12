@@ -80,7 +80,7 @@ A maybe isn't permission to order on their behalf. And buying something doesn't 
 
 ## If you decide to browse together
 
-A [cordless wand body massager](https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/) gives you something specific to discuss: a broad flexible silicone head, 10 massage patterns and four speeds. Look at the controls together and ask which settings each of you would want to handle.
+A [cordless wand body massager](https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=how-to-bring-up-trying-something-new) gives you something specific to discuss: a broad flexible silicone head, 10 massage patterns and four speeds. Look at the controls together and ask which settings each of you would want to handle.
 
 Delivery uses plain outer packaging with no product details on the label. Read the return policy together before ordering; opening an intimate product can affect eligibility.
 
@@ -102,8 +102,8 @@ Priya and Dev might finish their tea and decide to browse another night. They mi
 
 You don't need to end the evening with a plan. Knowing you can raise an awkward question—and hear an honest answer—is enough to start with.
 
-{{< sindept_card title="Cordless Wand Body Massager – 10 Modes & 4 Speeds" price="$29.99" url="https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/" note="10 massage patterns, four speeds, a broad flexible silicone head and USB charging. Described for shoulders, back, arms and legs." image="https://sindept.com/wp-content/uploads/2026/10/9ffea80d614ceb436730f7da21defe86.webp" content="hero" button="Explore this pick →" >}}
+{{< sindept_card title="Cordless Wand Body Massager – 10 Modes & 4 Speeds" price="$29.99" url="https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=how-to-bring-up-trying-something-new" note="10 massage patterns, four speeds, a broad flexible silicone head and USB charging. Described for shoulders, back, arms and legs." image="https://sindept.com/wp-content/uploads/2026/10/9ffea80d614ceb436730f7da21defe86.webp" content="hero" button="Explore this pick →" >}}
 
 {{< sindept_recommendations title="You might also like" >}}
-{{< sindept_card title="Couples’ Vibrating Ring with Contoured Stimulator" price="$29.99" url="https://sindept.com/products/couples-vibrating-cock-ring-lip-stimulator-10-modes/" note="Flexible silicone ring with a lip-shaped stimulator, 10 vibration modes, app control and IPX7 waterproofing." image="https://sindept.com/wp-content/uploads/2026/10/16b97ca708165f1dd883515fb14512e1.webp" content="more" >}}
+{{< sindept_card title="Couples’ Vibrating Ring with Contoured Stimulator" price="$29.99" url="https://sindept.com/products/couples-vibrating-cock-ring-lip-stimulator-10-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=how-to-bring-up-trying-something-new" note="Flexible silicone ring with a lip-shaped stimulator, 10 vibration modes, app control and IPX7 waterproofing." image="https://sindept.com/wp-content/uploads/2026/10/16b97ca708165f1dd883515fb14512e1.webp" content="more" >}}
 {{< /sindept_recommendations >}}

@@ -58,7 +58,7 @@ So I looked.
 
 ---
 
-I ended up ordering a [cordless wand body massager](https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/) from SinDept. Black, not red. Red felt like it would be sitting on my coffee table announcing itself.
+I ended up ordering a [cordless wand body massager](https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=the-night-shift-shoulder) from SinDept. Black, not red. Red felt like it would be sitting on my coffee table announcing itself.
 
 What sold me was boring. The description said it was made for shoulders, back, arms and legs. Broad, flexible silicone head. A textured grip, which mattered, because my hands are always a little dry and slippery from hand sanitizer. Ten patterns and four speeds, which seemed like a lot of choices for someone who just wanted her trapezius to stop yelling. USB rechargeable. And it shipped in plain outer packaging with no product details on the label.
 
@@ -110,7 +110,7 @@ She looked at me for a long second, the way she looks at a patient who says thei
 
 "Uh-huh," she said, and stole another pretzel.
 
-{{< sindept_card title="Cordless Wand Body Massager – 10 Modes & 4 Speeds" price="$29.99" url="https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/" note="10 massage patterns, four speeds, a broad flexible silicone head and USB charging. Described for shoulders, back, arms and legs." image="https://sindept.com/wp-content/uploads/2026/10/9ffea80d614ceb436730f7da21defe86.webp" content="hero" button="Get the one from the story →" >}}
+{{< sindept_card title="Cordless Wand Body Massager – 10 Modes & 4 Speeds" price="$29.99" url="https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=the-night-shift-shoulder" note="10 massage patterns, four speeds, a broad flexible silicone head and USB charging. Described for shoulders, back, arms and legs." image="https://sindept.com/wp-content/uploads/2026/10/9ffea80d614ceb436730f7da21defe86.webp" content="hero" button="Get the one from the story →" >}}
 
 Maya first appeared in [Learning What I Like at 35]({{< relref "/stories/learning-what-i-like-at-35.md" >}}).
 

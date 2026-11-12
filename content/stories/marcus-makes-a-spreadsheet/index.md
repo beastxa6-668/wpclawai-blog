@@ -48,7 +48,7 @@ Marcus sat with that the whole drive home. It was the first useful thing anyone 
 
 That weekend he did what he did with everything: research. He opened eleven tabs. He closed nine of them because the pictures made him feel like he was going to get fired just by looking at them on his own laptop in his own apartment. He had a rule: if he wouldn't want Lena's mom to see the product page over his shoulder, it was out.
 
-He found the [Vibrating Dual Cock Ring with 9 Modes](https://sindept.com/products/vibrating-dual-cock-ring-9-modes-longer-stronger-more/) on SinDept late Sunday night. The photos were just the product on a dark background. Nothing that would make him close the laptop.
+He found the [Vibrating Dual Cock Ring with 9 Modes](https://sindept.com/products/vibrating-dual-cock-ring-9-modes-longer-stronger-more/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=marcus-makes-a-spreadsheet) on SinDept late Sunday night. The photos were just the product on a dark background. Nothing that would make him close the laptop.
 
 He actually made the spreadsheet then. Four columns: *What it says. Does that matter. Questions. Price.*
 
@@ -128,7 +128,7 @@ He was quiet for a second.
 
 She laughed so hard the bed shook.
 
-{{< sindept_card title="Vibrating Dual Cock Ring with 9 Modes – Longer, Stronger, More Intense" price="$14.99" url="https://sindept.com/products/vibrating-dual-cock-ring-9-modes-longer-stronger-more/" note="Nine vibration modes, a soft and stretchy dual-ring design, premium silicone + ABS and a one-touch power button. 3.54 × 2.2 inches." image="https://sindept.com/wp-content/uploads/2026/10/ddf0dedfd1a16dd14af04622964eccbd.webp" content="hero" button="Get the one from the story →" >}}
+{{< sindept_card title="Vibrating Dual Cock Ring with 9 Modes – Longer, Stronger, More Intense" price="$14.99" url="https://sindept.com/products/vibrating-dual-cock-ring-9-modes-longer-stronger-more/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=marcus-makes-a-spreadsheet" note="Nine vibration modes, a soft and stretchy dual-ring design, premium silicone + ABS and a one-touch power button. 3.54 × 2.2 inches." image="https://sindept.com/wp-content/uploads/2026/10/ddf0dedfd1a16dd14af04622964eccbd.webp" content="hero" button="Get the one from the story →" >}}
 
 Another nervous gift-giver: [The Gift I Was Too Nervous to Give]({{< relref "/stories/the-gift-i-was-too-nervous-to-give.md" >}}).
 

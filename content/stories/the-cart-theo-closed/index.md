@@ -26,7 +26,7 @@ He opened the laptop again.
 
 He'd spent the evening doing the thing he did when a decision embarrassed him: collecting enough information to disguise it as work. A notebook lay beside the computer. He had made columns. He'd crossed out one heading and replaced it with **cleaning**, because apparently he could face this subject if it resembled a maintenance schedule.
 
-On the screen was [the automatic stroker he'd been comparing](https://sindept.com/products/automatic-male-masturbator-7-vibration-3-suction-modes/). He had read about the detachable sleeve and the controls. He had looked at the price. Then he'd looked at the price again, as though a different number might settle the question he was avoiding.
+On the screen was [the automatic stroker he'd been comparing](https://sindept.com/products/automatic-male-masturbator-7-vibration-3-suction-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=the-cart-theo-closed). He had read about the detachable sleeve and the controls. He had looked at the price. Then he'd looked at the price again, as though a different number might settle the question he was avoiding.
 
 Thirty-two dollars and ninety-nine cents was not the problem. His last emergency hardware-store trip had cost more than that, and all he'd come home with was a fitting that didn't fit.
 
@@ -98,6 +98,6 @@ Then he saved the page, shut the laptop and went to find the dog, who had alread
 
 For the practical comparison behind Theo's research, read [Stroker, Ring or Wand?](/guides/first-mens-toy-stroker-ring-or-wand/).
 
-<div><a class="sindept-recommendation-card sd-card-hero" href="https://sindept.com/products/automatic-male-masturbator-7-vibration-3-suction-modes/"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/e7ef1d4646fbed811ada9b55d5c82b71.webp" alt="Automatic stroker with a detachable textured sleeve" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">The option in Theo's cart</h4><p class="sd-card-note">Automatic Male Masturbator: TPE sleeve, seven vibration modes, three suction modes and one-button operation.</p><div class="sd-card-footer"><span class="sd-card-price">$32.99</span><span class="sd-card-btn">See the product details →</span></div></div></div></a></div>
+<div><a class="sindept-recommendation-card sd-card-hero" href="https://sindept.com/products/automatic-male-masturbator-7-vibration-3-suction-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=the-cart-theo-closed"><div class="sd-card-content"><div class="sd-card-image-wrap"><img src="https://sindept.com/wp-content/uploads/2026/10/e7ef1d4646fbed811ada9b55d5c82b71.webp" alt="Automatic stroker with a detachable textured sleeve" loading="lazy"></div><div class="sd-card-details"><h4 class="sd-card-title">The option in Theo's cart</h4><p class="sd-card-note">Automatic Male Masturbator: TPE sleeve, seven vibration modes, three suction modes and one-button operation.</p><div class="sd-card-footer"><span class="sd-card-price">$32.99</span><span class="sd-card-btn">See the product details →</span></div></div></div></a></div>
 
 *The Velvet Notes is published by the team behind SinDept.*
