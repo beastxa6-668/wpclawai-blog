@@ -12,6 +12,8 @@ cover:
   alt: "A quiet domestic scene accompanying a fictional relationship story"
 ---
 
+*An illustrative story from The Velvet Notes editors.*
+
 At six forty, Priya put her earrings on beside a bag of frozen peas. The kitchen was the only room with a mirror she could reach without waking Anika, and the peas were there because Dev had been looking for the emergency contact list in the freezer.
 
 "I was putting away groceries when you told me where it was," he said.
