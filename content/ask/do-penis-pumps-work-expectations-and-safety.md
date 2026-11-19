@@ -7,6 +7,10 @@ categories: ["Ask Velvet"]
 tags: ["Men's Pleasure", "Beginners", "Safety"]
 description: "Do penis pumps work? Understand temporary effects, the difference between a wellness product and medical treatment, and what to check before use."
 summary: "A pump's settings are not a promise of permanent enlargement. Start with realistic expectations, a readable manual and an accessible pressure release."
+cover:
+  image: "/images/og-materials-101.png"
+  alt: "Folded towels, a soap dispenser and a notebook beside a sunlit sink"
+images: ["/images/og-materials-101.png"]
 ---
 
 **Do penis pumps work? A vacuum pump can produce a temporary change, but it is not a route to permanent enlargement.** Choose by fit, clear instructions and a pressure-release control you can operate easily—not by before-and-after pictures. If your aim is treatment for erection difficulties, speak with a clinician about an appropriate medical device rather than choosing a consumer product by its name.

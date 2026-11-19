@@ -7,6 +7,10 @@ categories: ["Gift Guides"]
 tags: ["Gift Ideas", "Couples", "Communication", "Holiday"]
 description: "Choosing a sex toy gift for your wife, husband or partner? Build a consent-first holiday shortlist around preferences, controls, cleaning and discreet delivery."
 summary: "A holiday gift should fit a conversation you have already had. Compare a few useful designs without buying by urgency or assumptions."
+cover:
+  image: "/images/og-black-friday-shortlist-20261117.png"
+  alt: "Kraft gift boxes with burgundy ribbons and a blank checklist on a wooden table"
+images: ["/images/og-black-friday-shortlist-20261117.png"]
 ---
 
 **The best sex toy gift for your wife, husband or partner is one they have said they would welcome.** Start with their preferences, then compare controls and care routines. Black Friday and Cyber Monday are good occasions to make a thoughtful shortlist—not a reason to turn an intimate gift into a surprise test. If you are unsure, make choosing together the gift.
@@ -68,5 +72,9 @@ A shared shortlist can wait. There is no need to order something simply because 
 ### Is a more complicated product a more thoughtful gift?
 
 Not necessarily. A design that is easy for the recipient to control, clean and store may be a better match than one with more functions.
+
+{{< sindept_card title="Cordless Wand Body Massager" url="https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=1127-wand-card&utm_content=card" image="https://img.staticdj.com/9ffea80d614ceb436730f7da21defe86.webp" note="Broad silicone head, ten massage patterns and four speeds. A design to discuss if they enjoy broad body massage." button="View the wand →" >}}
+
+{{< sindept_card title="Cat-Shaped Suction Toy" url="https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=1127-cat-card&utm_content=card" image="https://img.staticdj.com/307fbe381489726c74e958c6934d5e29.webp" note="Seven air-pulse patterns and rechargeable operation. Shortlist it only if they have asked about this type of design." button="View the suction design →" >}}
 
 *The Velvet Notes is published by the team behind SinDept.*
