@@ -22,6 +22,8 @@ He wrote **What do I actually want it to do?** on the back of an envelope. That 
 
 > Choose a **stroker** if you want a sleeve-style solo product; a **vibrating ring** if a wearable design appeals to you; or a **wand** if broad external body massage is your priority. Compare the actual material, fit, controls and cleaning routine. A long mode list is a feature, not a ranking of how well a product will suit you.
 
+Compare side by side: [male strokers and masturbators](https://sindept.com/product-category/mens-pleasure/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=first-mens-toy-cat-men) or [cock rings and vibrating rings](https://sindept.com/product-category/cock-rings-delay/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=first-mens-toy-cat-rings), each with a quick-picks table of specs and current prices.
+
 ## Compare the designs before comparing prices
 
 | Type | What distinguishes it | The question to answer first |

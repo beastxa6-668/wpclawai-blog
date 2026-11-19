@@ -24,6 +24,8 @@ She clicked back to the details, looking for a material list instead of another 
 
 > Start with a clearly stated material and cleaning instructions for the exact item. 100% silicone and silicone blends are not interchangeable labels. TPE may be porous and needs particular care. “Body-safe,” “premium” and “soft” are not substitutes for product-specific evidence. If you cannot confirm the material or suitable care, pause rather than guess.
 
+**Shopping now?** Each SinDept collection lists the material on every product page, with a quick comparison table: [vibrators for women](https://sindept.com/product-category/womens-pleasure/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=body-safe-materials-101-cat-women), [male strokers](https://sindept.com/product-category/mens-pleasure/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=body-safe-materials-101-cat-men) and [torso dolls](https://sindept.com/product-category/realistic-dolls/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=body-safe-materials-101-cat-dolls).
+
 ## What does “body-safe” actually tell me?
 
 Start with the contact surface: its material, any coatings or mixed materials, and the manufacturer's cleaning instructions. Look for the exact composition—100% silicone or a silicone blend—and check the care guidance alongside it.
@@ -57,6 +59,8 @@ Short answer: "TPE" alone doesn't tell you either way. TPE (thermoplastic elasto
 2. If you do choose TPE (common for strokers and realistic sleeves because of the feel), keep it to one person, or use a condom over it.
 3. Use water-based lube, wash with warm water and mild soap after every use, and let it dry completely before storing it on its own.
 4. Replace it if it turns sticky, cloudy, cracked or starts to smell.
+
+TPE shows up most in [strokers and sleeves](https://sindept.com/product-category/mens-pleasure/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=body-safe-materials-101-tpe-men) and [torso dolls](https://sindept.com/product-category/realistic-dolls/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=body-safe-materials-101-tpe-dolls); each listing there names its material, so you can apply the steps above before you buy.
 
 **Searchers also ask:** *What is TPE silicone?* There isn't such a thing; TPE and silicone are separate materials, and "TPE silicone" usually means a listing that's mixing up the two. *TPR vs silicone?* TPR is a type of TPE, so the same porous-versus-nonporous difference applies.
 

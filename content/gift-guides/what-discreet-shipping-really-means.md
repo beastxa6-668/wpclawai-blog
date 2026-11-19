@@ -31,6 +31,8 @@ Tess nodded and went back to her laptop. The box did its job.
 
 > SinDept ships in plain outer packaging without product descriptions outside. It doesn't hide the recipient's name or order emails. Shipping is free on orders of $99 or more after discounts, including dolls. Estimated delivery, including 1–2 business days of processing, is 3–7 business days in the contiguous U.S. and D.C., or 4–9 business days in Alaska and Hawaii.
 
+**Browse by category** (every order uses the same plain packaging): [vibrators for women](https://sindept.com/product-category/womens-pleasure/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=discreet-shipping-cat-women), [male strokers](https://sindept.com/product-category/mens-pleasure/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=discreet-shipping-cat-men), [cock rings for couples](https://sindept.com/product-category/cock-rings-delay/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=discreet-shipping-cat-rings), [bondage kits](https://sindept.com/product-category/bdsm-bondage/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=discreet-shipping-cat-bdsm) and [torso dolls](https://sindept.com/product-category/realistic-dolls/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=discreet-shipping-cat-dolls).
+
 ## What does discreet packaging actually cover?
 
 SinDept's [shipping policy](https://sindept.com/shipping-delivery-policy/) says orders ship in plain outer packaging without product descriptions on the outside of the parcel. The shipping label contains the information required by the carrier and applicable law.

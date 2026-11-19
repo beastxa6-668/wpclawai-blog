@@ -21,6 +21,8 @@ If you are thinking about purchasing your very first vibrator, let’s start wit
 
 Understanding your own anatomy, setting realistic expectations, and knowing a few key material rules is all it takes to make a confident, joyful choice.
 
+Already know the style you want? SinDept's [vibrators for women](https://sindept.com/product-category/womens-pleasure/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=first-vibrator-cat-women) page has a quick-picks table comparing suction toys, wands and rabbit vibrators by specs and current price.
+
 ---
 
 ### Step 1: Start With Where You Feel Sensation
