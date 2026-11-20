@@ -3,3 +3,4 @@
   {{- $url = strings.TrimPrefix "/" $url | relURL -}}
 {{- end -}}
 <a href="{{ $url | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- /* 末尾不留换行：否则每个链接后的逗号、句号前会多一个空格 */ -}}
