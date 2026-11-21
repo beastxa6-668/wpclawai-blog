@@ -1,12 +1,12 @@
 ---
-title: "Body-Safe Materials 101: Silicone, TPE and What to Avoid"
+title: "Is TPE Toxic? Silicone vs TPE: Body-Safe Materials 101"
 date: 2026-10-19T06:00:00-04:00
-lastmod: 2026-11-12T12:00:00-05:00
+lastmod: 2026-11-21T03:30:00-05:00
 slug: "body-safe-materials-101"
 author: "The Velvet Notes Editorial"
 categories: ["Guides"]
 tags: ["Materials", "Beginners", "Care", "Suction toys", "Vibrators", "For him", "Bondage basics"]
-description: "What silicone and TPE labels tell you, what they don't, and which material, cleaning and lubricant questions to ask before buying an intimate toy."
+description: "Is TPE safe for a sex toy? What TPE, TPR and silicone labels tell you, why TPE is treated as porous, and the care and lubricant questions to ask before buying."
 summary: "A practical guide to silicone, TPE, cleaning instructions and compatible lubricants."
 images: ["/images/og-materials-101.png"]
 cover:
