@@ -1,11 +1,12 @@
 ---
-title: "What \"Discreet Shipping\" Really Means (and How to Send a Private Gift)"
+title: "How Does Discreet Shipping Work? Discreet Packaging Explained"
 date: 2026-10-30T06:00:00-04:00
+lastmod: 2026-11-21T03:30:00-05:00
 slug: "what-discreet-shipping-really-means"
 author: "The Velvet Notes Editorial"
 categories: ["Gift Guides"]
 tags: ["Gifts", "Shipping", "Privacy", "Roommates", "Beginners"]
-description: "What discreet packaging covers, how shipping charges and delivery estimates work, and how to send a private gift when you share a home."
+description: "How discreet shipping and discreet packaging work: what the plain box and label cover, what they don't hide, delivery times and sending a private gift."
 summary: "Plain packaging helps keep a parcel's contents private. Here's what it doesn't hide, plus current shipping costs and estimated delivery times."
 images: ["/images/og-discreet-shipping.png"]
 cover:
