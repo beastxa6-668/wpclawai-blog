@@ -1,6 +1,7 @@
 ---
 title: "Thoughtful Gifts for Your Partner (That Aren't Awkward)"
 date: 2026-10-17T08:30:00Z
+lastmod: 2026-11-21T08:52:10-08:00
 slug: "thoughtful-gifts-for-your-partner-that-arent-awkward"
 author: "The Velvet Notes Editorial"
 categories: ["Gift Guides"]
