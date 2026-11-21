@@ -1,7 +1,7 @@
 ---
 title: "How Does Discreet Shipping Work? Discreet Packaging Explained"
 date: 2026-10-30T06:00:00-04:00
-lastmod: 2026-11-21T03:30:00-05:00
+lastmod: 2026-11-21T09:05:00-05:00
 slug: "what-discreet-shipping-really-means"
 author: "The Velvet Notes Editorial"
 categories: ["Gift Guides"]
@@ -40,7 +40,9 @@ SinDept's [shipping policy](https://sindept.com/shipping-delivery-policy/) says 
 
 That protects the contents from being advertised on the outside. It doesn't promise anonymous delivery or a label without the recipient's name and address.
 
-## What doesn't it hide?
+## Is discreet delivery anonymous? What doesn't it hide?
+
+No. Discreet delivery keeps the contents off the outside of the box; it doesn't make the parcel or the recipient invisible.
 
 - **The recipient's name and delivery address.** The carrier still needs delivery information.
 - **Order and tracking emails.** Use an email account you control, especially on a shared computer.
