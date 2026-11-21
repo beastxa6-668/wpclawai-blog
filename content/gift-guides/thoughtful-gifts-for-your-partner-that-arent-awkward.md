@@ -60,12 +60,14 @@ When shopping for intimacy gifts, look for a clearly stated contact material, co
 
 For a massage-focused gift, look at the [Cordless Wand Body Massager](https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=thoughtful-gifts-for-your-partner-that-arent-awkward) together. Its flexible silicone head, 10 patterns and four speeds give you specific preferences to talk about before choosing.
 
-Here are two beautifully balanced, beginner-friendly romance gifts from SinDept that bridge the gap between relaxation and playful exploration. Both arrive in completely unmarked, discreet packaging:
-
-Remember: the most touching gifts aren't the ones that demand something in return. They are the ones that open a door to deeper connection, shared laughter, and mutual warmth.
+Here are two beginner-friendly gifts from SinDept that sit between relaxation and playful exploration. Both ship in plain outer packaging:
 
 {{< sindept_card title="Cordless Wand Body Massager – 10 Modes & 4 Speeds" price="$29.99" url="https://sindept.com/products/cordless-wand-body-massager-10-modes-4-speeds/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=thoughtful-gifts-for-your-partner-that-arent-awkward" image="https://sindept.com/wp-content/uploads/2026/10/9ffea80d614ceb436730f7da21defe86.webp" note="Versatile, elegant cordless wand featuring a flexible silicone head. Perfect for relaxing neck and shoulder tension or deep full-body massage." content="hero" button="Explore this pick →" >}}
 
 {{< sindept_recommendations title="You might also like" >}}
 {{< sindept_card title="Remote-Control Contoured Dual Massager" price="$33.99" url="https://sindept.com/products/remote-control-rotating-g-spot-clitoral-vibrator/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=thoughtful-gifts-for-your-partner-that-arent-awkward" image="https://sindept.com/wp-content/uploads/2026/10/9122345d9aa647e324b33480bcf7fa9e.webp" note="Silky liquid silicone with a handheld wireless remote. Enables effortless shared play across the bed without awkward stretching or disruption." content="more" >}}
 {{< /sindept_recommendations >}}
+
+Want to compare more options first? Browse SinDept's [best sellers](https://sindept.com/product-category/best-sellers/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=thoughtful-gifts-for-your-partner-that-arent-awkward) or the [women's pleasure collection](https://sindept.com/product-category/womens-pleasure/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=thoughtful-gifts-for-your-partner-that-arent-awkward) together and pick by the controls and size your partner prefers.
+
+Remember: the most touching gifts aren't the ones that demand something in return. They are the ones that open a door to deeper connection, shared laughter, and mutual warmth.
