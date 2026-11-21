@@ -19,7 +19,7 @@ images: ["/images/og-materials-101.png"]
 
 The word “enlargement” in a product title is not a measurement of lasting results. A pump creates suction around the penis; any temporary appearance change is different from permanent growth. Stronger suction is not a better result to aim for.
 
-For a concrete controls example, SinDept's [automatic vacuum pump with four intensity settings](https://sindept.com/products/automatic-penis-enlargement-pump-4-intensity-levels/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=1125-pump-inline&utm_content=inline) lists a transparent graduated chamber, onboard buttons and USB charging. These features describe the device, not a treatment outcome. Scale markings help show positioning; they are not proof of a lasting change.
+For a concrete controls example, SinDept's [automatic vacuum pump with four intensity settings](https://sindept.com/products/automatic-penis-enlargement-pump-4-intensity-levels/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=1125-pump-inline&utm_content=inline) lists a transparent graduated chamber, onboard buttons and USB charging. These features describe the device, not a treatment outcome. Scale markings help show positioning; they are not proof of a lasting change. If you want to compare manual and automatic designs side by side, SinDept's [men's pumps and strokers category](https://sindept.com/product-category/mens-pleasure/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=1125-pump-category&utm_content=inline) lists them with their control types.
 
 ## What should I check before deciding to buy one?
 
