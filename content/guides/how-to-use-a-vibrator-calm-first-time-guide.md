@@ -38,7 +38,7 @@ Use each product only for the areas and purposes covered by its instructions. An
 | Focused external vibration | [Dual-head rabbit-ear body massager](https://sindept.com/products/dual-head-rabbit-ear-body-massager-10-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=how-to-use-a-vibrator-calm-first-time-guide) | Silicone contact surface; ten vibration patterns; designed for external use |
 | Focused air-pulse suction | [Cat-shaped suction toy](https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=how-to-use-a-vibrator-calm-first-time-guide) | Seven air-pulse patterns; rechargeable; IPX7 construction |
 
-A rabbit-ear shape does not by itself mean a product is intended for internal use. The dual-head model above is described as external. Likewise, a suction device uses a different mechanism from ordinary vibration. Choose the sensation and intended use first, then compare features.
+A rabbit-ear shape does not by itself mean a product is intended for internal use. The dual-head model above is described as external. Likewise, a suction device uses a different mechanism from ordinary vibration. Choose the sensation and intended use first, then compare features. To see wands, rabbit styles and suction toys side by side, browse SinDept's [vibrators for women](https://sindept.com/product-category/womens-pleasure/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=1121-firsttime-cat-women&utm_content=inline).
 
 ## Do I need lubricant?
 

@@ -64,7 +64,7 @@ Maya's cat-shaped toy is a silicone air-pulse toy rated IPX7; she followed its o
 
 The cat-shaped toy's care instructions say to store it separately in a cool, dry place. Separate clean pouches also keep items from rubbing against each other and help keep lint and dust off.
 
-Keep the storage spot cool and dry. A windowsill or the top of a radiator is not cool and dry.
+Keep the storage spot cool and dry. A windowsill or the top of a radiator is not cool and dry. Soft TPE items such as [torso dolls](https://sindept.com/product-category/realistic-dolls/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=1121-cleaning-cat-dolls&utm_content=inline) need the most care here: dry every channel fully and keep them away from heat and dark fabrics.
 
 ## Signs it's time to replace it
 

@@ -36,6 +36,7 @@ Ask one question: "Is there anything you've been curious about?" Then sort the a
 | "Something that does the work" (for him) | [Silicone Automatic Male Masturbator](https://sindept.com/products/automatic-male-masturbator-7-suction-7-rotation-7-vibration/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=black-friday-gift-shortlist-eight-picks-by-need) | 7 suction + 7 rotation + 7 vibration, ~60 min run time, Type-C |
 | "Simple, no charging" (for him) | [Closed-End Textured Male Masturbator](https://sindept.com/products/closed-end-textured-male-masturbator/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=black-friday-gift-shortlist-eight-picks-by-need) | Manual, soft TPE, textured tunnel, compact |
 | "I'm curious about being tied up" | [Pink 8-Piece Bondage Kit for Beginners](https://sindept.com/products/pink-bdsm-bondage-set-8-piece-restraint-kit/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=black-friday-gift-shortlist-eight-picks-by-need) | Padded cuffs, rope, mask, collar and leash, flogger, ball gag |
+Want more options in the same spirit? SinDept's [best sellers](https://sindept.com/product-category/best-sellers/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=1121-giftlist-cat-best&utm_content=inline) collect popular picks from every category on one page.
 
 ## Which picks suit a first-timer?
 
