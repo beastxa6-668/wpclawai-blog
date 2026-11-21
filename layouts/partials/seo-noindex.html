@@ -1,6 +1,9 @@
 {{- /* 2026-11-11 自然流：标签/分类总览页、文章少于 3 篇的标签和分类页不收录，并移出站点地图。 */ -}}
+{{- /* 2026-11-21：分类页（/blog/categories/guides/ 等）和栏目页（/blog/guides/ 等）列的是同一批文章，谷歌判成重复网页；分类页一律不收录，只留栏目页。 */ -}}
 {{- $noindex := false -}}
 {{- if eq .Kind "taxonomy" -}}
+  {{- $noindex = true -}}
+{{- else if and (eq .Kind "term") (eq .Type "categories") -}}
   {{- $noindex = true -}}
 {{- else if and (eq .Kind "term") (lt (len .Pages) 3) -}}
   {{- $noindex = true -}}
