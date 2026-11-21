@@ -21,7 +21,7 @@ If you are thinking about purchasing your very first vibrator, let’s start wit
 
 Understanding your own anatomy, setting realistic expectations, and knowing a few key material rules is all it takes to make a confident, joyful choice.
 
-Already know the style you want? SinDept's [vibrators for women](https://sindept.com/product-category/womens-pleasure/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=first-vibrator-cat-women) page has a quick-picks table comparing suction toys, wands and rabbit vibrators by specs and current price.
+Already know the style you want? SinDept's [vibrators for women](https://sindept.com/product-category/womens-pleasure/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=first-vibrator-cat-women) page has a quick-picks table comparing suction toys, wands and rabbit vibrators by specs and current price. If you want one concrete example to compare against, look at the [Cat-Shaped Clitoral Suction Toy](https://sindept.com/products/cat-shaped-clitoral-suction-toy-7-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=how-to-choose-your-first-vibrator&utm_content=top): air-pulse suction, seven patterns, silicone contact surface.
 
 ---
 
