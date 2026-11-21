@@ -1,6 +1,7 @@
 ---
 title: "Long Distance, Closer Than Ever: Staying Intimate Across Two Time Zones"
 date: 2026-10-28T06:00:00-04:00
+lastmod: 2026-11-21T09:31:00-08:00
 slug: "long-distance-closer-than-ever"
 author: "The Velvet Notes Editorial"
 categories: ["Sex & Pleasure"]
@@ -32,6 +33,8 @@ Jordan put the red pen down. *Same. I just didn't know how to say it without it 
 ## Quick answer
 
 > Plan intimate time the way you'd plan a date, with a time that works in both time zones. Talk about what each of you wants before you try anything new, including what's off the table. Video calls work better with a little setup: privacy, a charged phone, headphones. App-controlled toys can let a partner change settings from far away; check how the app connects and what it asks for before you rely on it.
+
+One example to compare: the [adjustable app-controlled vibrating ring](https://sindept.com/products/adjustable-vibrating-cock-ring-app-control-10-modes/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=long-distance-closer-than-ever&utm_content=top), whose description mentions app control for long-distance play and 10 modes. The checklist for choosing one is further down.
 
 ## Why does distance make intimacy feel harder?
 
