@@ -1,7 +1,7 @@
 ---
 title: "How Does Discreet Shipping Work? Discreet Packaging Explained"
 date: 2026-10-30T06:00:00-04:00
-lastmod: 2026-11-21T09:05:00-05:00
+lastmod: 2026-11-21T09:38:00-08:00
 slug: "what-discreet-shipping-really-means"
 author: "The Velvet Notes Editorial"
 categories: ["Gift Guides"]
@@ -46,6 +46,7 @@ No. Discreet delivery keeps the contents off the outside of the box; it doesn't 
 
 - **The recipient's name and delivery address.** The carrier still needs delivery information.
 - **Order and tracking emails.** Use an email account you control, especially on a shared computer.
+- **The charge on your card statement.** At SinDept it shows as "SD ONLINE", but your bank or wallet app may add its own merchant details, so keep that in mind if you share an account.
 - **The fact that a package arrived.** A plain parcel is still visible in a lobby or on a doorstep.
 - **What happens after it's opened.** Give a gift recipient a heads-up so they can open it privately.
 
@@ -103,6 +104,10 @@ Business days exclude weekends and public holidays. These are estimates, not a g
 ### Will the parcel say what's inside?
 
 SinDept uses plain outer packaging without product descriptions outside. The label still carries information required by the carrier and applicable law.
+
+### What name shows on my card statement?
+
+SinDept charges appear as "SD ONLINE". Some banks and wallet apps add extra merchant details on their own, which the store doesn't control.
 
 ### What if tracking says delivered but I can't find it?
 
