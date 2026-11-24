@@ -22,6 +22,10 @@ That rule works for intimate gifts better than any sale banner does.
 
 > Match the gift to something the recipient has already said. For broad body massage, a **cordless wand**; for a small, quiet external toy, a **cat-shaped suction toy**; for someone who likes a decorative look, the **rose tongue vibrator**; for couples, a **vibrating ring with a lip stimulator** or a **wearable remote vibrator**; for him, an **automatic** or a **manual** masturbator; for a first try at restraint, a **beginner bondage kit**. Black Friday is **November 27, 2026**. Current offers are shown in the banner at the top of [sindept.com](https://sindept.com/).
 
+## Black Friday–Cyber Monday offer dates
+
+From **November 27 through November 30, 2026 (Eastern Time)**, use **BFCM15** for 15% off eligible non-sale products. The eight featured picks have scheduled sale prices instead; the code excludes already discounted products and cannot be combined with another coupon. BFCM15 is not active before November 27. Check [SinDept's current offer](https://sindept.com/?utm_source=velvetnotes&utm_medium=blog&utm_campaign=1124-bfcm-offer) and your checkout total before paying. Shipping charges and the free-shipping threshold are unchanged.
+
 ## How do I choose without guessing?
 
 Ask one question: "Is there anything you've been curious about?" Then sort the answer into one of the needs below. If the answer is "no," that's an answer too — choose a non-intimate gift.
